@@ -1,0 +1,55 @@
+[2024-12-06 22:29:16] ======================================================================================================
+[2024-12-06 22:29:16] Start log message:
+[2024-12-06 22:29:16] Error : Line number where getting error is : 70
+[2024-12-06 22:29:16] Error : File name where getting error is : C:\laragon\www\my-project\backend\storage\framework\views\608e6bf5268512289b413baba1cc76d7ccda7dbc.php
+[2024-12-06 22:29:16] Error getting on your query : Class "AdminModule" not found (View: C:\laragon\www\my-project\backend\resources\views\admin\admin-layouts\master.blade.php) (View: C:\laragon\www\my-project\backend\resources\views\admin\admin-layouts\master.blade.php)
+[2024-12-06 22:29:16] Error : Your query value is : 
+[2024-12-06 22:29:16] Error : Your query binding with error : 
+[2024-12-06 22:29:16] Error : Code : 0
+[2024-12-06 22:29:16] End log message
+[2024-12-06 22:29:16] ======================================================================================================
+
+[2024-12-06 22:32:40] ======================================================================================================
+[2024-12-06 22:32:40] Start log message:
+[2024-12-06 22:32:40] Error : Line number where getting error is : 70
+[2024-12-06 22:32:40] Error : File name where getting error is : C:\laragon\www\my-project\backend\storage\framework\views\608e6bf5268512289b413baba1cc76d7ccda7dbc.php
+[2024-12-06 22:32:40] Error : Getting on your query : Class "AdminModule" not found (View: C:\laragon\www\my-project\backend\resources\views\admin\admin-layouts\master.blade.php) (View: C:\laragon\www\my-project\backend\resources\views\admin\admin-layouts\master.blade.php)
+[2024-12-06 22:32:40] Error : Your query value is : 
+[2024-12-06 22:32:40] Error : Your query binding with error : 
+[2024-12-06 22:32:40] Error : Code : 0
+[2024-12-06 22:32:40] End log message
+[2024-12-06 22:32:40] ======================================================================================================
+
+[2024-12-06 22:33:26] ======================================================================================================
+[2024-12-06 22:33:26] Start log message:
+[2024-12-06 22:33:26] Error : Line number where getting error is : 70
+[2024-12-06 22:33:26] Error : File name where getting error is : C:\laragon\www\my-project\backend\storage\framework\views\608e6bf5268512289b413baba1cc76d7ccda7dbc.php
+[2024-12-06 22:33:26] Error : Getting on your query : Class "AdminModule" not found (View: C:\laragon\www\my-project\backend\resources\views\admin\admin-layouts\master.blade.php) (View: C:\laragon\www\my-project\backend\resources\views\admin\admin-layouts\master.blade.php)
+[2024-12-06 22:33:26] Error : Your query value is : 
+[2024-12-06 22:33:26] Error : Your query binding with error : 
+[2024-12-06 22:33:26] Error : Code : 0
+[2024-12-06 22:33:26] End log message
+[2024-12-06 22:33:26] ======================================================================================================
+
+[2024-12-06 22:34:38] ======================================================================================================
+[2024-12-06 22:34:38] Start log message:
+[2024-12-06 22:34:38] Error : Line number where getting error is : 44
+[2024-12-06 22:34:38] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-06 22:34:38] Error : Getting on your query : The route admin/tool/assets/js/plugin/webfont/webfont.min.js could not be found.
+[2024-12-06 22:34:38] Error : Your query value is : 
+[2024-12-06 22:34:38] Error : Your query binding with error : 
+[2024-12-06 22:34:38] Error : Code : 0
+[2024-12-06 22:34:38] End log message
+[2024-12-06 22:34:38] ======================================================================================================
+
+[2024-12-06 22:34:42] ======================================================================================================
+[2024-12-06 22:34:42] Start log message:
+[2024-12-06 22:34:42] Error : Line number where getting error is : 44
+[2024-12-06 22:34:42] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-06 22:34:42] Error : Getting on your query : The route admin/tool/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-06 22:34:42] Error : Your query value is : 
+[2024-12-06 22:34:42] Error : Your query binding with error : 
+[2024-12-06 22:34:42] Error : Code : 0
+[2024-12-06 22:34:42] End log message
+[2024-12-06 22:34:42] ======================================================================================================
+

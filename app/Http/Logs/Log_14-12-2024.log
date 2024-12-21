@@ -1,0 +1,2354 @@
+[2024-12-14 13:49:02] ======================================================================================================
+[2024-12-14 13:49:02] Start log message:
+[2024-12-14 13:49:02] Error : Line number where getting error is : 44
+[2024-12-14 13:49:02] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:49:02] Error : Getting on your query : The route admin_assets/css/fontawesome.css could not be found.
+[2024-12-14 13:49:02] Error : Your query value is : 
+[2024-12-14 13:49:02] Error : Your query binding with error : 
+[2024-12-14 13:49:02] Error : Code : 0
+[2024-12-14 13:49:02] End log message
+[2024-12-14 13:49:02] ======================================================================================================
+
+[2024-12-14 13:49:03] ======================================================================================================
+[2024-12-14 13:49:03] Start log message:
+[2024-12-14 13:49:03] Error : Line number where getting error is : 44
+[2024-12-14 13:49:03] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:49:03] Error : Getting on your query : The route admin_assets/css/animate.css could not be found.
+[2024-12-14 13:49:03] Error : Your query value is : 
+[2024-12-14 13:49:03] Error : Your query binding with error : 
+[2024-12-14 13:49:03] Error : Code : 0
+[2024-12-14 13:49:03] End log message
+[2024-12-14 13:49:03] ======================================================================================================
+
+[2024-12-14 13:49:03] ======================================================================================================
+[2024-12-14 13:49:03] Start log message:
+[2024-12-14 13:49:03] Error : Line number where getting error is : 44
+[2024-12-14 13:49:03] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:49:03] Error : Getting on your query : The route admin_assets/css/owl.css could not be found.
+[2024-12-14 13:49:03] Error : Your query value is : 
+[2024-12-14 13:49:03] Error : Your query binding with error : 
+[2024-12-14 13:49:03] Error : Code : 0
+[2024-12-14 13:49:03] End log message
+[2024-12-14 13:49:03] ======================================================================================================
+
+[2024-12-14 13:49:04] ======================================================================================================
+[2024-12-14 13:49:04] Start log message:
+[2024-12-14 13:49:04] Error : Line number where getting error is : 44
+[2024-12-14 13:49:04] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:49:04] Error : Getting on your query : The route admin_assets/css/bootstrap.min.css could not be found.
+[2024-12-14 13:49:04] Error : Your query value is : 
+[2024-12-14 13:49:04] Error : Your query binding with error : 
+[2024-12-14 13:49:04] Error : Code : 0
+[2024-12-14 13:49:04] End log message
+[2024-12-14 13:49:04] ======================================================================================================
+
+[2024-12-14 13:49:04] ======================================================================================================
+[2024-12-14 13:49:04] Start log message:
+[2024-12-14 13:49:04] Error : Line number where getting error is : 44
+[2024-12-14 13:49:04] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:49:04] Error : Getting on your query : The route admin_assets/css/templatemo-villa-agency.css could not be found.
+[2024-12-14 13:49:04] Error : Your query value is : 
+[2024-12-14 13:49:04] Error : Your query binding with error : 
+[2024-12-14 13:49:04] Error : Code : 0
+[2024-12-14 13:49:04] End log message
+[2024-12-14 13:49:04] ======================================================================================================
+
+[2024-12-14 13:49:04] ======================================================================================================
+[2024-12-14 13:49:04] Start log message:
+[2024-12-14 13:49:04] Error : Line number where getting error is : 44
+[2024-12-14 13:49:04] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:49:04] Error : Getting on your query : The route admin_assets/js/jquery.min.js could not be found.
+[2024-12-14 13:49:04] Error : Your query value is : 
+[2024-12-14 13:49:04] Error : Your query binding with error : 
+[2024-12-14 13:49:04] Error : Code : 0
+[2024-12-14 13:49:04] End log message
+[2024-12-14 13:49:04] ======================================================================================================
+
+[2024-12-14 13:49:05] ======================================================================================================
+[2024-12-14 13:49:05] Start log message:
+[2024-12-14 13:49:05] Error : Line number where getting error is : 44
+[2024-12-14 13:49:05] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:49:05] Error : Getting on your query : The route assets/images/video-frame.jpg could not be found.
+[2024-12-14 13:49:05] Error : Your query value is : 
+[2024-12-14 13:49:05] Error : Your query binding with error : 
+[2024-12-14 13:49:05] Error : Code : 0
+[2024-12-14 13:49:05] End log message
+[2024-12-14 13:49:05] ======================================================================================================
+
+[2024-12-14 13:49:05] ======================================================================================================
+[2024-12-14 13:49:05] Start log message:
+[2024-12-14 13:49:05] Error : Line number where getting error is : 44
+[2024-12-14 13:49:05] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:49:05] Error : Getting on your query : The route assets/images/phone-icon.png could not be found.
+[2024-12-14 13:49:05] Error : Your query value is : 
+[2024-12-14 13:49:05] Error : Your query binding with error : 
+[2024-12-14 13:49:05] Error : Code : 0
+[2024-12-14 13:49:05] End log message
+[2024-12-14 13:49:05] ======================================================================================================
+
+[2024-12-14 13:49:06] ======================================================================================================
+[2024-12-14 13:49:06] Start log message:
+[2024-12-14 13:49:06] Error : Line number where getting error is : 44
+[2024-12-14 13:49:06] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:49:06] Error : Getting on your query : The route assets/images/email-icon.png could not be found.
+[2024-12-14 13:49:06] Error : Your query value is : 
+[2024-12-14 13:49:06] Error : Your query binding with error : 
+[2024-12-14 13:49:06] Error : Code : 0
+[2024-12-14 13:49:06] End log message
+[2024-12-14 13:49:06] ======================================================================================================
+
+[2024-12-14 13:49:06] ======================================================================================================
+[2024-12-14 13:49:06] Start log message:
+[2024-12-14 13:49:06] Error : Line number where getting error is : 44
+[2024-12-14 13:49:06] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:49:06] Error : Getting on your query : The route admin_assets/js/bootstrap.min.js could not be found.
+[2024-12-14 13:49:06] Error : Your query value is : 
+[2024-12-14 13:49:06] Error : Your query binding with error : 
+[2024-12-14 13:49:06] Error : Code : 0
+[2024-12-14 13:49:06] End log message
+[2024-12-14 13:49:06] ======================================================================================================
+
+[2024-12-14 13:49:06] ======================================================================================================
+[2024-12-14 13:49:06] Start log message:
+[2024-12-14 13:49:06] Error : Line number where getting error is : 44
+[2024-12-14 13:49:06] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:49:06] Error : Getting on your query : The route admin_assets/js/isotope.min.js could not be found.
+[2024-12-14 13:49:06] Error : Your query value is : 
+[2024-12-14 13:49:06] Error : Your query binding with error : 
+[2024-12-14 13:49:06] Error : Code : 0
+[2024-12-14 13:49:06] End log message
+[2024-12-14 13:49:06] ======================================================================================================
+
+[2024-12-14 13:49:07] ======================================================================================================
+[2024-12-14 13:49:07] Start log message:
+[2024-12-14 13:49:07] Error : Line number where getting error is : 44
+[2024-12-14 13:49:07] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:49:07] Error : Getting on your query : The route admin_assets/js/owl-carousel.js could not be found.
+[2024-12-14 13:49:07] Error : Your query value is : 
+[2024-12-14 13:49:07] Error : Your query binding with error : 
+[2024-12-14 13:49:07] Error : Code : 0
+[2024-12-14 13:49:07] End log message
+[2024-12-14 13:49:07] ======================================================================================================
+
+[2024-12-14 13:49:07] ======================================================================================================
+[2024-12-14 13:49:07] Start log message:
+[2024-12-14 13:49:07] Error : Line number where getting error is : 44
+[2024-12-14 13:49:07] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:49:07] Error : Getting on your query : The route admin_assets/js/counter.js could not be found.
+[2024-12-14 13:49:07] Error : Your query value is : 
+[2024-12-14 13:49:07] Error : Your query binding with error : 
+[2024-12-14 13:49:07] Error : Code : 0
+[2024-12-14 13:49:07] End log message
+[2024-12-14 13:49:07] ======================================================================================================
+
+[2024-12-14 13:49:07] ======================================================================================================
+[2024-12-14 13:49:07] Start log message:
+[2024-12-14 13:49:07] Error : Line number where getting error is : 44
+[2024-12-14 13:49:07] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:49:07] Error : Getting on your query : The route admin_assets/js/custom.js could not be found.
+[2024-12-14 13:49:07] Error : Your query value is : 
+[2024-12-14 13:49:07] Error : Your query binding with error : 
+[2024-12-14 13:49:07] Error : Code : 0
+[2024-12-14 13:49:07] End log message
+[2024-12-14 13:49:07] ======================================================================================================
+
+[2024-12-14 13:54:24] ======================================================================================================
+[2024-12-14 13:54:24] Start log message:
+[2024-12-14 13:54:24] Error : Line number where getting error is : 44
+[2024-12-14 13:54:24] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:54:24] Error : Getting on your query : The route admin/grocery/dashboard could not be found.
+[2024-12-14 13:54:24] Error : Your query value is : 
+[2024-12-14 13:54:24] Error : Your query binding with error : 
+[2024-12-14 13:54:24] Error : Code : 0
+[2024-12-14 13:54:24] End log message
+[2024-12-14 13:54:24] ======================================================================================================
+
+[2024-12-14 13:54:34] ======================================================================================================
+[2024-12-14 13:54:34] Start log message:
+[2024-12-14 13:54:34] Error : Line number where getting error is : 44
+[2024-12-14 13:54:34] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:54:34] Error : Getting on your query : The route admin/grocery/dashboard could not be found.
+[2024-12-14 13:54:34] Error : Your query value is : 
+[2024-12-14 13:54:34] Error : Your query binding with error : 
+[2024-12-14 13:54:34] Error : Code : 0
+[2024-12-14 13:54:34] End log message
+[2024-12-14 13:54:34] ======================================================================================================
+
+[2024-12-14 13:54:57] ======================================================================================================
+[2024-12-14 13:54:57] Start log message:
+[2024-12-14 13:54:57] Error : Line number where getting error is : 19
+[2024-12-14 13:54:57] Error : File name where getting error is : C:\laragon\www\my-project\backend\app\Models\Admin\ChildPermission.php
+[2024-12-14 13:54:57] Error : Getting on your query : Cannot redeclare App\Models\Admin\ChildPermission::subModuleFromChild()
+[2024-12-14 13:54:57] Error : Your query value is : 
+[2024-12-14 13:54:57] Error : Your query binding with error : 
+[2024-12-14 13:54:57] Error : Code : 0
+[2024-12-14 13:54:57] End log message
+[2024-12-14 13:54:57] ======================================================================================================
+
+[2024-12-14 13:55:22] ======================================================================================================
+[2024-12-14 13:55:22] Start log message:
+[2024-12-14 13:55:22] Error : Line number where getting error is : 44
+[2024-12-14 13:55:22] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:55:22] Error : Getting on your query : The route admin/employee/list/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 13:55:22] Error : Your query value is : 
+[2024-12-14 13:55:22] Error : Your query binding with error : 
+[2024-12-14 13:55:22] Error : Code : 0
+[2024-12-14 13:55:22] End log message
+[2024-12-14 13:55:22] ======================================================================================================
+
+[2024-12-14 13:55:32] ======================================================================================================
+[2024-12-14 13:55:32] Start log message:
+[2024-12-14 13:55:32] Error : Line number where getting error is : 44
+[2024-12-14 13:55:32] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:55:32] Error : Getting on your query : The route admin/change/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 13:55:32] Error : Your query value is : 
+[2024-12-14 13:55:32] Error : Your query binding with error : 
+[2024-12-14 13:55:32] Error : Code : 0
+[2024-12-14 13:55:32] End log message
+[2024-12-14 13:55:32] ======================================================================================================
+
+[2024-12-14 13:55:40] ======================================================================================================
+[2024-12-14 13:55:40] Start log message:
+[2024-12-14 13:55:40] Error : Line number where getting error is : 44
+[2024-12-14 13:55:40] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 13:55:40] Error : Getting on your query : The route admin/edit/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 13:55:40] Error : Your query value is : 
+[2024-12-14 13:55:40] Error : Your query binding with error : 
+[2024-12-14 13:55:40] Error : Code : 0
+[2024-12-14 13:55:40] End log message
+[2024-12-14 13:55:40] ======================================================================================================
+
+[2024-12-14 13:55:53] ======================================================================================================
+[2024-12-14 13:55:53] Start log message:
+[2024-12-14 13:55:53] Error : Line number where getting error is : 38
+[2024-12-14 13:55:53] Error : File name where getting error is : C:\laragon\www\my-project\backend\storage\framework\views\33234aa14be7cdce3058a5f41de4c7e117daa0a6.php
+[2024-12-14 13:55:53] Error : Getting on your query : Undefined variable $data (View: C:\laragon\www\my-project\backend\resources\views\admin\auth\create-child-module.blade.php)
+[2024-12-14 13:55:53] Error : Your query value is : 
+[2024-12-14 13:55:53] Error : Your query binding with error : 
+[2024-12-14 13:55:53] Error : Code : 0
+[2024-12-14 13:55:53] End log message
+[2024-12-14 13:55:53] ======================================================================================================
+
+[2024-12-14 13:56:00] ======================================================================================================
+[2024-12-14 13:56:00] Start log message:
+[2024-12-14 13:56:00] Error : Line number where getting error is : 19
+[2024-12-14 13:56:00] Error : File name where getting error is : C:\laragon\www\my-project\backend\app\Models\Admin\ChildPermission.php
+[2024-12-14 13:56:00] Error : Getting on your query : Cannot redeclare App\Models\Admin\ChildPermission::subModuleFromChild()
+[2024-12-14 13:56:00] Error : Your query value is : 
+[2024-12-14 13:56:00] Error : Your query binding with error : 
+[2024-12-14 13:56:00] Error : Code : 0
+[2024-12-14 13:56:00] End log message
+[2024-12-14 13:56:00] ======================================================================================================
+
+[2024-12-14 14:05:53] ======================================================================================================
+[2024-12-14 14:05:53] Start log message:
+[2024-12-14 14:05:53] Error : Line number where getting error is : 19
+[2024-12-14 14:05:53] Error : File name where getting error is : C:\laragon\www\my-project\backend\app\Models\Admin\ChildPermission.php
+[2024-12-14 14:05:53] Error : Getting on your query : Cannot redeclare App\Models\Admin\ChildPermission::subModuleFromChild()
+[2024-12-14 14:05:53] Error : Your query value is : 
+[2024-12-14 14:05:53] Error : Your query binding with error : 
+[2024-12-14 14:05:53] Error : Code : 0
+[2024-12-14 14:05:53] End log message
+[2024-12-14 14:05:53] ======================================================================================================
+
+[2024-12-14 14:06:01] ======================================================================================================
+[2024-12-14 14:06:01] Start log message:
+[2024-12-14 14:06:01] Error : Line number where getting error is : 44
+[2024-12-14 14:06:01] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:06:01] Error : Getting on your query : The route admin/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 14:06:01] Error : Your query value is : 
+[2024-12-14 14:06:01] Error : Your query binding with error : 
+[2024-12-14 14:06:01] Error : Code : 0
+[2024-12-14 14:06:01] End log message
+[2024-12-14 14:06:01] ======================================================================================================
+
+[2024-12-14 14:06:02] ======================================================================================================
+[2024-12-14 14:06:02] Start log message:
+[2024-12-14 14:06:02] Error : Line number where getting error is : 44
+[2024-12-14 14:06:02] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:06:02] Error : Getting on your query : The route admin/vendor/dashboard could not be found.
+[2024-12-14 14:06:02] Error : Your query value is : 
+[2024-12-14 14:06:02] Error : Your query binding with error : 
+[2024-12-14 14:06:02] Error : Code : 0
+[2024-12-14 14:06:02] End log message
+[2024-12-14 14:06:02] ======================================================================================================
+
+[2024-12-14 14:06:36] ======================================================================================================
+[2024-12-14 14:06:36] Start log message:
+[2024-12-14 14:06:36] Error : Line number where getting error is : 44
+[2024-12-14 14:06:36] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:06:36] Error : Getting on your query : The route admin/grocery/dashboard could not be found.
+[2024-12-14 14:06:36] Error : Your query value is : 
+[2024-12-14 14:06:36] Error : Your query binding with error : 
+[2024-12-14 14:06:36] Error : Code : 0
+[2024-12-14 14:06:36] End log message
+[2024-12-14 14:06:36] ======================================================================================================
+
+[2024-12-14 14:06:44] ======================================================================================================
+[2024-12-14 14:06:44] Start log message:
+[2024-12-14 14:06:44] Error : Line number where getting error is : 44
+[2024-12-14 14:06:44] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:06:44] Error : Getting on your query : The route admin/travel/dashboard could not be found.
+[2024-12-14 14:06:44] Error : Your query value is : 
+[2024-12-14 14:06:44] Error : Your query binding with error : 
+[2024-12-14 14:06:44] Error : Code : 0
+[2024-12-14 14:06:44] End log message
+[2024-12-14 14:06:44] ======================================================================================================
+
+[2024-12-14 14:07:55] ======================================================================================================
+[2024-12-14 14:07:55] Start log message:
+[2024-12-14 14:07:55] Error : Line number where getting error is : 44
+[2024-12-14 14:07:55] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:07:55] Error : Getting on your query : The route admin/tool/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 14:07:55] Error : Your query value is : 
+[2024-12-14 14:07:55] Error : Your query binding with error : 
+[2024-12-14 14:07:55] Error : Code : 0
+[2024-12-14 14:07:55] End log message
+[2024-12-14 14:07:55] ======================================================================================================
+
+[2024-12-14 14:07:56] ======================================================================================================
+[2024-12-14 14:07:56] Start log message:
+[2024-12-14 14:07:56] Error : Line number where getting error is : 44
+[2024-12-14 14:07:56] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:07:56] Error : Getting on your query : The route admin/vendor/dashboard could not be found.
+[2024-12-14 14:07:56] Error : Your query value is : 
+[2024-12-14 14:07:56] Error : Your query binding with error : 
+[2024-12-14 14:07:56] Error : Code : 0
+[2024-12-14 14:07:56] End log message
+[2024-12-14 14:07:56] ======================================================================================================
+
+[2024-12-14 14:08:01] ======================================================================================================
+[2024-12-14 14:08:01] Start log message:
+[2024-12-14 14:08:01] Error : Line number where getting error is : 44
+[2024-12-14 14:08:01] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:08:01] Error : Getting on your query : The route admin/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 14:08:01] Error : Your query value is : 
+[2024-12-14 14:08:01] Error : Your query binding with error : 
+[2024-12-14 14:08:01] Error : Code : 0
+[2024-12-14 14:08:01] End log message
+[2024-12-14 14:08:01] ======================================================================================================
+
+[2024-12-14 14:11:38] ======================================================================================================
+[2024-12-14 14:11:38] Start log message:
+[2024-12-14 14:11:38] Error : Line number where getting error is : 183
+[2024-12-14 14:11:38] Error : File name where getting error is : C:\laragon\www\my-project\backend\app\Http\Controllers\Admin\TemplateController.php
+[2024-12-14 14:11:38] Error : Getting on your query : Class "App\Models\Admin\Permission" not found
+[2024-12-14 14:11:38] Error : Your query value is : 
+[2024-12-14 14:11:38] Error : Your query binding with error : 
+[2024-12-14 14:11:38] Error : Code : 0
+[2024-12-14 14:11:38] End log message
+[2024-12-14 14:11:38] ======================================================================================================
+
+[2024-12-14 14:17:06] ======================================================================================================
+[2024-12-14 14:17:06] Start log message:
+[2024-12-14 14:17:06] Error : Line number where getting error is : 44
+[2024-12-14 14:17:06] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:17:06] Error : Getting on your query : The route admin/tool/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 14:17:06] Error : Your query value is : 
+[2024-12-14 14:17:06] Error : Your query binding with error : 
+[2024-12-14 14:17:06] Error : Code : 0
+[2024-12-14 14:17:06] End log message
+[2024-12-14 14:17:06] ======================================================================================================
+
+[2024-12-14 14:17:08] ======================================================================================================
+[2024-12-14 14:17:08] Start log message:
+[2024-12-14 14:17:08] Error : Line number where getting error is : 44
+[2024-12-14 14:17:08] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:17:08] Error : Getting on your query : The route admin/grocery/dashboard could not be found.
+[2024-12-14 14:17:08] Error : Your query value is : 
+[2024-12-14 14:17:08] Error : Your query binding with error : 
+[2024-12-14 14:17:08] Error : Code : 0
+[2024-12-14 14:17:08] End log message
+[2024-12-14 14:17:08] ======================================================================================================
+
+[2024-12-14 14:17:13] ======================================================================================================
+[2024-12-14 14:17:13] Start log message:
+[2024-12-14 14:17:13] Error : Line number where getting error is : 44
+[2024-12-14 14:17:13] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:17:13] Error : Getting on your query : The route admin/travel/dashboard could not be found.
+[2024-12-14 14:17:13] Error : Your query value is : 
+[2024-12-14 14:17:13] Error : Your query binding with error : 
+[2024-12-14 14:17:13] Error : Code : 0
+[2024-12-14 14:17:13] End log message
+[2024-12-14 14:17:13] ======================================================================================================
+
+[2024-12-14 14:17:17] ======================================================================================================
+[2024-12-14 14:17:17] Start log message:
+[2024-12-14 14:17:17] Error : Line number where getting error is : 44
+[2024-12-14 14:17:17] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:17:17] Error : Getting on your query : The route admin/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 14:17:17] Error : Your query value is : 
+[2024-12-14 14:17:17] Error : Your query binding with error : 
+[2024-12-14 14:17:17] Error : Code : 0
+[2024-12-14 14:17:17] End log message
+[2024-12-14 14:17:17] ======================================================================================================
+
+[2024-12-14 14:27:53] ======================================================================================================
+[2024-12-14 14:27:53] Start log message:
+[2024-12-14 14:27:53] Error : Line number where getting error is : 44
+[2024-12-14 14:27:53] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:27:53] Error : Getting on your query : The route admin/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 14:27:53] Error : Your query value is : 
+[2024-12-14 14:27:53] Error : Your query binding with error : 
+[2024-12-14 14:27:53] Error : Code : 0
+[2024-12-14 14:27:53] End log message
+[2024-12-14 14:27:53] ======================================================================================================
+
+[2024-12-14 14:27:56] ======================================================================================================
+[2024-12-14 14:27:56] Start log message:
+[2024-12-14 14:27:56] Error : Line number where getting error is : 44
+[2024-12-14 14:27:56] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:27:56] Error : Getting on your query : The route admin/tool/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 14:27:56] Error : Your query value is : 
+[2024-12-14 14:27:56] Error : Your query binding with error : 
+[2024-12-14 14:27:56] Error : Code : 0
+[2024-12-14 14:27:56] End log message
+[2024-12-14 14:27:56] ======================================================================================================
+
+[2024-12-14 14:27:58] ======================================================================================================
+[2024-12-14 14:27:58] Start log message:
+[2024-12-14 14:27:58] Error : Line number where getting error is : 19
+[2024-12-14 14:27:58] Error : File name where getting error is : C:\laragon\www\my-project\backend\app\Models\Admin\ChildPermission.php
+[2024-12-14 14:27:58] Error : Getting on your query : Cannot redeclare App\Models\Admin\ChildPermission::subModuleFromChild()
+[2024-12-14 14:27:58] Error : Your query value is : 
+[2024-12-14 14:27:58] Error : Your query binding with error : 
+[2024-12-14 14:27:58] Error : Code : 0
+[2024-12-14 14:27:58] End log message
+[2024-12-14 14:27:58] ======================================================================================================
+
+[2024-12-14 14:30:00] ======================================================================================================
+[2024-12-14 14:30:00] Start log message:
+[2024-12-14 14:30:00] Error : Line number where getting error is : 44
+[2024-12-14 14:30:00] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:30:00] Error : Getting on your query : The route admin/tool/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 14:30:00] Error : Your query value is : 
+[2024-12-14 14:30:00] Error : Your query binding with error : 
+[2024-12-14 14:30:00] Error : Code : 0
+[2024-12-14 14:30:00] End log message
+[2024-12-14 14:30:00] ======================================================================================================
+
+[2024-12-14 14:30:04] ======================================================================================================
+[2024-12-14 14:30:04] Start log message:
+[2024-12-14 14:30:04] Error : Line number where getting error is : 44
+[2024-12-14 14:30:04] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:30:04] Error : Getting on your query : The route admin/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 14:30:04] Error : Your query value is : 
+[2024-12-14 14:30:04] Error : Your query binding with error : 
+[2024-12-14 14:30:04] Error : Code : 0
+[2024-12-14 14:30:04] End log message
+[2024-12-14 14:30:04] ======================================================================================================
+
+[2024-12-14 14:30:07] ======================================================================================================
+[2024-12-14 14:30:07] Start log message:
+[2024-12-14 14:30:07] Error : Line number where getting error is : 44
+[2024-12-14 14:30:07] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:30:07] Error : Getting on your query : The route admin/vendor/dashboard could not be found.
+[2024-12-14 14:30:07] Error : Your query value is : 
+[2024-12-14 14:30:07] Error : Your query binding with error : 
+[2024-12-14 14:30:07] Error : Code : 0
+[2024-12-14 14:30:07] End log message
+[2024-12-14 14:30:07] ======================================================================================================
+
+[2024-12-14 14:30:55] ======================================================================================================
+[2024-12-14 14:30:55] Start log message:
+[2024-12-14 14:30:55] Error : Line number where getting error is : 44
+[2024-12-14 14:30:55] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:30:55] Error : Getting on your query : The route admin/vendor/dashboard could not be found.
+[2024-12-14 14:30:55] Error : Your query value is : 
+[2024-12-14 14:30:55] Error : Your query binding with error : 
+[2024-12-14 14:30:55] Error : Code : 0
+[2024-12-14 14:30:55] End log message
+[2024-12-14 14:30:55] ======================================================================================================
+
+[2024-12-14 14:31:03] ======================================================================================================
+[2024-12-14 14:31:03] Start log message:
+[2024-12-14 14:31:03] Error : Line number where getting error is : 19
+[2024-12-14 14:31:03] Error : File name where getting error is : C:\laragon\www\my-project\backend\app\Models\Admin\ChildPermission.php
+[2024-12-14 14:31:03] Error : Getting on your query : Cannot redeclare App\Models\Admin\ChildPermission::subModuleFromChild()
+[2024-12-14 14:31:03] Error : Your query value is : 
+[2024-12-14 14:31:03] Error : Your query binding with error : 
+[2024-12-14 14:31:03] Error : Code : 0
+[2024-12-14 14:31:03] End log message
+[2024-12-14 14:31:03] ======================================================================================================
+
+[2024-12-14 14:31:37] ======================================================================================================
+[2024-12-14 14:31:37] Start log message:
+[2024-12-14 14:31:37] Error : Line number where getting error is : 44
+[2024-12-14 14:31:37] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:31:37] Error : Getting on your query : The route admin/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 14:31:37] Error : Your query value is : 
+[2024-12-14 14:31:37] Error : Your query binding with error : 
+[2024-12-14 14:31:37] Error : Code : 0
+[2024-12-14 14:31:37] End log message
+[2024-12-14 14:31:37] ======================================================================================================
+
+[2024-12-14 14:31:40] ======================================================================================================
+[2024-12-14 14:31:40] Start log message:
+[2024-12-14 14:31:40] Error : Line number where getting error is : 44
+[2024-12-14 14:31:40] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:31:40] Error : Getting on your query : The route admin/tool/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 14:31:40] Error : Your query value is : 
+[2024-12-14 14:31:40] Error : Your query binding with error : 
+[2024-12-14 14:31:40] Error : Code : 0
+[2024-12-14 14:31:40] End log message
+[2024-12-14 14:31:40] ======================================================================================================
+
+[2024-12-14 14:33:05] ======================================================================================================
+[2024-12-14 14:33:05] Start log message:
+[2024-12-14 14:33:05] Error : Line number where getting error is : 44
+[2024-12-14 14:33:05] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:33:05] Error : Getting on your query : The route admin/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 14:33:05] Error : Your query value is : 
+[2024-12-14 14:33:05] Error : Your query binding with error : 
+[2024-12-14 14:33:05] Error : Code : 0
+[2024-12-14 14:33:05] End log message
+[2024-12-14 14:33:05] ======================================================================================================
+
+[2024-12-14 14:33:08] ======================================================================================================
+[2024-12-14 14:33:08] Start log message:
+[2024-12-14 14:33:08] Error : Line number where getting error is : 137
+[2024-12-14 14:33:08] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\View\FileViewFinder.php
+[2024-12-14 14:33:08] Error : Getting on your query : View [admin.dashboard] not found.
+[2024-12-14 14:33:08] Error : Your query value is : 
+[2024-12-14 14:33:08] Error : Your query binding with error : 
+[2024-12-14 14:33:08] Error : Code : 0
+[2024-12-14 14:33:08] End log message
+[2024-12-14 14:33:08] ======================================================================================================
+
+[2024-12-14 14:34:20] ======================================================================================================
+[2024-12-14 14:34:20] Start log message:
+[2024-12-14 14:34:20] Error : Line number where getting error is : 44
+[2024-12-14 14:34:20] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:20] Error : Getting on your query : The route admin/css/bootstrap.min.css could not be found.
+[2024-12-14 14:34:20] Error : Your query value is : 
+[2024-12-14 14:34:20] Error : Your query binding with error : 
+[2024-12-14 14:34:20] Error : Code : 0
+[2024-12-14 14:34:20] End log message
+[2024-12-14 14:34:20] ======================================================================================================
+
+[2024-12-14 14:34:21] ======================================================================================================
+[2024-12-14 14:34:21] Start log message:
+[2024-12-14 14:34:21] Error : Line number where getting error is : 44
+[2024-12-14 14:34:21] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:21] Error : Getting on your query : The route admin/css/style.css could not be found.
+[2024-12-14 14:34:21] Error : Your query value is : 
+[2024-12-14 14:34:21] Error : Your query binding with error : 
+[2024-12-14 14:34:21] Error : Code : 0
+[2024-12-14 14:34:21] End log message
+[2024-12-14 14:34:21] ======================================================================================================
+
+[2024-12-14 14:34:21] ======================================================================================================
+[2024-12-14 14:34:21] Start log message:
+[2024-12-14 14:34:21] Error : Line number where getting error is : 44
+[2024-12-14 14:34:21] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:21] Error : Getting on your query : The route admin/css/style-responsive.css could not be found.
+[2024-12-14 14:34:21] Error : Your query value is : 
+[2024-12-14 14:34:21] Error : Your query binding with error : 
+[2024-12-14 14:34:21] Error : Code : 0
+[2024-12-14 14:34:21] End log message
+[2024-12-14 14:34:21] ======================================================================================================
+
+[2024-12-14 14:34:21] ======================================================================================================
+[2024-12-14 14:34:21] Start log message:
+[2024-12-14 14:34:21] Error : Line number where getting error is : 44
+[2024-12-14 14:34:21] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:21] Error : Getting on your query : The route admin/css/font.css could not be found.
+[2024-12-14 14:34:21] Error : Your query value is : 
+[2024-12-14 14:34:21] Error : Your query binding with error : 
+[2024-12-14 14:34:21] Error : Code : 0
+[2024-12-14 14:34:21] End log message
+[2024-12-14 14:34:21] ======================================================================================================
+
+[2024-12-14 14:34:22] ======================================================================================================
+[2024-12-14 14:34:22] Start log message:
+[2024-12-14 14:34:22] Error : Line number where getting error is : 44
+[2024-12-14 14:34:22] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:22] Error : Getting on your query : The route admin/css/morris.css could not be found.
+[2024-12-14 14:34:22] Error : Your query value is : 
+[2024-12-14 14:34:22] Error : Your query binding with error : 
+[2024-12-14 14:34:22] Error : Code : 0
+[2024-12-14 14:34:22] End log message
+[2024-12-14 14:34:22] ======================================================================================================
+
+[2024-12-14 14:34:22] ======================================================================================================
+[2024-12-14 14:34:22] Start log message:
+[2024-12-14 14:34:22] Error : Line number where getting error is : 44
+[2024-12-14 14:34:22] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:22] Error : Getting on your query : The route admin/css/font-awesome.css could not be found.
+[2024-12-14 14:34:22] Error : Your query value is : 
+[2024-12-14 14:34:22] Error : Your query binding with error : 
+[2024-12-14 14:34:22] Error : Code : 0
+[2024-12-14 14:34:22] End log message
+[2024-12-14 14:34:22] ======================================================================================================
+
+[2024-12-14 14:34:23] ======================================================================================================
+[2024-12-14 14:34:23] Start log message:
+[2024-12-14 14:34:23] Error : Line number where getting error is : 44
+[2024-12-14 14:34:23] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:23] Error : Getting on your query : The route admin/css/monthly.css could not be found.
+[2024-12-14 14:34:23] Error : Your query value is : 
+[2024-12-14 14:34:23] Error : Your query binding with error : 
+[2024-12-14 14:34:23] Error : Code : 0
+[2024-12-14 14:34:23] End log message
+[2024-12-14 14:34:23] ======================================================================================================
+
+[2024-12-14 14:34:23] ======================================================================================================
+[2024-12-14 14:34:23] Start log message:
+[2024-12-14 14:34:23] Error : Line number where getting error is : 44
+[2024-12-14 14:34:23] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:23] Error : Getting on your query : The route admin/js/jquery2.0.3.min.js could not be found.
+[2024-12-14 14:34:23] Error : Your query value is : 
+[2024-12-14 14:34:23] Error : Your query binding with error : 
+[2024-12-14 14:34:23] Error : Code : 0
+[2024-12-14 14:34:23] End log message
+[2024-12-14 14:34:23] ======================================================================================================
+
+[2024-12-14 14:34:23] ======================================================================================================
+[2024-12-14 14:34:23] Start log message:
+[2024-12-14 14:34:23] Error : Line number where getting error is : 44
+[2024-12-14 14:34:23] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:23] Error : Getting on your query : The route admin/js/raphael-min.js could not be found.
+[2024-12-14 14:34:23] Error : Your query value is : 
+[2024-12-14 14:34:23] Error : Your query binding with error : 
+[2024-12-14 14:34:23] Error : Code : 0
+[2024-12-14 14:34:23] End log message
+[2024-12-14 14:34:23] ======================================================================================================
+
+[2024-12-14 14:34:24] ======================================================================================================
+[2024-12-14 14:34:24] Start log message:
+[2024-12-14 14:34:24] Error : Line number where getting error is : 44
+[2024-12-14 14:34:24] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:24] Error : Getting on your query : The route admin/js/morris.js could not be found.
+[2024-12-14 14:34:24] Error : Your query value is : 
+[2024-12-14 14:34:24] Error : Your query binding with error : 
+[2024-12-14 14:34:24] Error : Code : 0
+[2024-12-14 14:34:24] End log message
+[2024-12-14 14:34:24] ======================================================================================================
+
+[2024-12-14 14:34:24] ======================================================================================================
+[2024-12-14 14:34:24] Start log message:
+[2024-12-14 14:34:24] Error : Line number where getting error is : 44
+[2024-12-14 14:34:24] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:24] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 14:34:24] Error : Your query value is : 
+[2024-12-14 14:34:24] Error : Your query binding with error : 
+[2024-12-14 14:34:24] Error : Code : 0
+[2024-12-14 14:34:24] End log message
+[2024-12-14 14:34:24] ======================================================================================================
+
+[2024-12-14 14:34:25] ======================================================================================================
+[2024-12-14 14:34:25] Start log message:
+[2024-12-14 14:34:25] Error : Line number where getting error is : 44
+[2024-12-14 14:34:25] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:25] Error : Getting on your query : The route admin/images/1.png could not be found.
+[2024-12-14 14:34:25] Error : Your query value is : 
+[2024-12-14 14:34:25] Error : Your query binding with error : 
+[2024-12-14 14:34:25] Error : Code : 0
+[2024-12-14 14:34:25] End log message
+[2024-12-14 14:34:25] ======================================================================================================
+
+[2024-12-14 14:34:25] ======================================================================================================
+[2024-12-14 14:34:25] Start log message:
+[2024-12-14 14:34:25] Error : Line number where getting error is : 44
+[2024-12-14 14:34:25] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:25] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 14:34:25] Error : Your query value is : 
+[2024-12-14 14:34:25] Error : Your query binding with error : 
+[2024-12-14 14:34:25] Error : Code : 0
+[2024-12-14 14:34:25] End log message
+[2024-12-14 14:34:25] ======================================================================================================
+
+[2024-12-14 14:34:26] ======================================================================================================
+[2024-12-14 14:34:26] Start log message:
+[2024-12-14 14:34:26] Error : Line number where getting error is : 44
+[2024-12-14 14:34:26] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:26] Error : Getting on your query : The route admin/js/bootstrap.js could not be found.
+[2024-12-14 14:34:26] Error : Your query value is : 
+[2024-12-14 14:34:26] Error : Your query binding with error : 
+[2024-12-14 14:34:26] Error : Code : 0
+[2024-12-14 14:34:26] End log message
+[2024-12-14 14:34:26] ======================================================================================================
+
+[2024-12-14 14:34:26] ======================================================================================================
+[2024-12-14 14:34:26] Start log message:
+[2024-12-14 14:34:26] Error : Line number where getting error is : 44
+[2024-12-14 14:34:26] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:26] Error : Getting on your query : The route admin/js/jquery.dcjqaccordion.2.7.js could not be found.
+[2024-12-14 14:34:26] Error : Your query value is : 
+[2024-12-14 14:34:26] Error : Your query binding with error : 
+[2024-12-14 14:34:26] Error : Code : 0
+[2024-12-14 14:34:26] End log message
+[2024-12-14 14:34:26] ======================================================================================================
+
+[2024-12-14 14:34:26] ======================================================================================================
+[2024-12-14 14:34:26] Start log message:
+[2024-12-14 14:34:26] Error : Line number where getting error is : 44
+[2024-12-14 14:34:26] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:26] Error : Getting on your query : The route admin/js/scripts.js could not be found.
+[2024-12-14 14:34:26] Error : Your query value is : 
+[2024-12-14 14:34:26] Error : Your query binding with error : 
+[2024-12-14 14:34:26] Error : Code : 0
+[2024-12-14 14:34:26] End log message
+[2024-12-14 14:34:26] ======================================================================================================
+
+[2024-12-14 14:34:27] ======================================================================================================
+[2024-12-14 14:34:27] Start log message:
+[2024-12-14 14:34:27] Error : Line number where getting error is : 44
+[2024-12-14 14:34:27] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:27] Error : Getting on your query : The route admin/js/jquery.slimscroll.js could not be found.
+[2024-12-14 14:34:27] Error : Your query value is : 
+[2024-12-14 14:34:27] Error : Your query binding with error : 
+[2024-12-14 14:34:27] Error : Code : 0
+[2024-12-14 14:34:27] End log message
+[2024-12-14 14:34:27] ======================================================================================================
+
+[2024-12-14 14:34:27] ======================================================================================================
+[2024-12-14 14:34:27] Start log message:
+[2024-12-14 14:34:27] Error : Line number where getting error is : 44
+[2024-12-14 14:34:27] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:27] Error : Getting on your query : The route admin/js/jquery.nicescroll.js could not be found.
+[2024-12-14 14:34:27] Error : Your query value is : 
+[2024-12-14 14:34:27] Error : Your query binding with error : 
+[2024-12-14 14:34:27] Error : Code : 0
+[2024-12-14 14:34:27] End log message
+[2024-12-14 14:34:27] ======================================================================================================
+
+[2024-12-14 14:34:28] ======================================================================================================
+[2024-12-14 14:34:28] Start log message:
+[2024-12-14 14:34:28] Error : Line number where getting error is : 44
+[2024-12-14 14:34:28] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:28] Error : Getting on your query : The route admin/js/jquery.scrollTo.js could not be found.
+[2024-12-14 14:34:28] Error : Your query value is : 
+[2024-12-14 14:34:28] Error : Your query binding with error : 
+[2024-12-14 14:34:28] Error : Code : 0
+[2024-12-14 14:34:28] End log message
+[2024-12-14 14:34:28] ======================================================================================================
+
+[2024-12-14 14:34:28] ======================================================================================================
+[2024-12-14 14:34:28] Start log message:
+[2024-12-14 14:34:28] Error : Line number where getting error is : 44
+[2024-12-14 14:34:28] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:34:28] Error : Getting on your query : The route admin/js/monthly.js could not be found.
+[2024-12-14 14:34:28] Error : Your query value is : 
+[2024-12-14 14:34:28] Error : Your query binding with error : 
+[2024-12-14 14:34:28] Error : Code : 0
+[2024-12-14 14:34:28] End log message
+[2024-12-14 14:34:28] ======================================================================================================
+
+[2024-12-14 14:36:13] ======================================================================================================
+[2024-12-14 14:36:13] Start log message:
+[2024-12-14 14:36:13] Error : Line number where getting error is : 44
+[2024-12-14 14:36:13] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:13] Error : Getting on your query : The route css/bootstrap.min.css could not be found.
+[2024-12-14 14:36:13] Error : Your query value is : 
+[2024-12-14 14:36:13] Error : Your query binding with error : 
+[2024-12-14 14:36:13] Error : Code : 0
+[2024-12-14 14:36:13] End log message
+[2024-12-14 14:36:13] ======================================================================================================
+
+[2024-12-14 14:36:13] ======================================================================================================
+[2024-12-14 14:36:13] Start log message:
+[2024-12-14 14:36:13] Error : Line number where getting error is : 44
+[2024-12-14 14:36:13] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:13] Error : Getting on your query : The route admin/css/morris.css could not be found.
+[2024-12-14 14:36:13] Error : Your query value is : 
+[2024-12-14 14:36:13] Error : Your query binding with error : 
+[2024-12-14 14:36:13] Error : Code : 0
+[2024-12-14 14:36:13] End log message
+[2024-12-14 14:36:13] ======================================================================================================
+
+[2024-12-14 14:36:13] ======================================================================================================
+[2024-12-14 14:36:13] Start log message:
+[2024-12-14 14:36:13] Error : Line number where getting error is : 44
+[2024-12-14 14:36:13] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:13] Error : Getting on your query : The route admin/css/font-awesome.css could not be found.
+[2024-12-14 14:36:13] Error : Your query value is : 
+[2024-12-14 14:36:13] Error : Your query binding with error : 
+[2024-12-14 14:36:13] Error : Code : 0
+[2024-12-14 14:36:13] End log message
+[2024-12-14 14:36:13] ======================================================================================================
+
+[2024-12-14 14:36:14] ======================================================================================================
+[2024-12-14 14:36:14] Start log message:
+[2024-12-14 14:36:14] Error : Line number where getting error is : 44
+[2024-12-14 14:36:14] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:14] Error : Getting on your query : The route admin/css/font.css could not be found.
+[2024-12-14 14:36:14] Error : Your query value is : 
+[2024-12-14 14:36:14] Error : Your query binding with error : 
+[2024-12-14 14:36:14] Error : Code : 0
+[2024-12-14 14:36:14] End log message
+[2024-12-14 14:36:14] ======================================================================================================
+
+[2024-12-14 14:36:14] ======================================================================================================
+[2024-12-14 14:36:14] Start log message:
+[2024-12-14 14:36:14] Error : Line number where getting error is : 44
+[2024-12-14 14:36:14] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:14] Error : Getting on your query : The route admin/css/style-responsive.css could not be found.
+[2024-12-14 14:36:14] Error : Your query value is : 
+[2024-12-14 14:36:14] Error : Your query binding with error : 
+[2024-12-14 14:36:14] Error : Code : 0
+[2024-12-14 14:36:14] End log message
+[2024-12-14 14:36:14] ======================================================================================================
+
+[2024-12-14 14:36:14] ======================================================================================================
+[2024-12-14 14:36:14] Start log message:
+[2024-12-14 14:36:14] Error : Line number where getting error is : 44
+[2024-12-14 14:36:14] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:14] Error : Getting on your query : The route admin/css/style.css could not be found.
+[2024-12-14 14:36:14] Error : Your query value is : 
+[2024-12-14 14:36:14] Error : Your query binding with error : 
+[2024-12-14 14:36:14] Error : Code : 0
+[2024-12-14 14:36:14] End log message
+[2024-12-14 14:36:14] ======================================================================================================
+
+[2024-12-14 14:36:15] ======================================================================================================
+[2024-12-14 14:36:15] Start log message:
+[2024-12-14 14:36:15] Error : Line number where getting error is : 44
+[2024-12-14 14:36:15] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:15] Error : Getting on your query : The route admin/css/monthly.css could not be found.
+[2024-12-14 14:36:15] Error : Your query value is : 
+[2024-12-14 14:36:15] Error : Your query binding with error : 
+[2024-12-14 14:36:15] Error : Code : 0
+[2024-12-14 14:36:15] End log message
+[2024-12-14 14:36:15] ======================================================================================================
+
+[2024-12-14 14:36:15] ======================================================================================================
+[2024-12-14 14:36:15] Start log message:
+[2024-12-14 14:36:15] Error : Line number where getting error is : 44
+[2024-12-14 14:36:15] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:15] Error : Getting on your query : The route admin/js/jquery2.0.3.min.js could not be found.
+[2024-12-14 14:36:15] Error : Your query value is : 
+[2024-12-14 14:36:15] Error : Your query binding with error : 
+[2024-12-14 14:36:15] Error : Code : 0
+[2024-12-14 14:36:15] End log message
+[2024-12-14 14:36:15] ======================================================================================================
+
+[2024-12-14 14:36:16] ======================================================================================================
+[2024-12-14 14:36:16] Start log message:
+[2024-12-14 14:36:16] Error : Line number where getting error is : 44
+[2024-12-14 14:36:16] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:16] Error : Getting on your query : The route admin/js/raphael-min.js could not be found.
+[2024-12-14 14:36:16] Error : Your query value is : 
+[2024-12-14 14:36:16] Error : Your query binding with error : 
+[2024-12-14 14:36:16] Error : Code : 0
+[2024-12-14 14:36:16] End log message
+[2024-12-14 14:36:16] ======================================================================================================
+
+[2024-12-14 14:36:16] ======================================================================================================
+[2024-12-14 14:36:16] Start log message:
+[2024-12-14 14:36:16] Error : Line number where getting error is : 44
+[2024-12-14 14:36:16] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:16] Error : Getting on your query : The route admin/js/morris.js could not be found.
+[2024-12-14 14:36:16] Error : Your query value is : 
+[2024-12-14 14:36:16] Error : Your query binding with error : 
+[2024-12-14 14:36:16] Error : Code : 0
+[2024-12-14 14:36:16] End log message
+[2024-12-14 14:36:16] ======================================================================================================
+
+[2024-12-14 14:36:17] ======================================================================================================
+[2024-12-14 14:36:17] Start log message:
+[2024-12-14 14:36:17] Error : Line number where getting error is : 44
+[2024-12-14 14:36:17] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:17] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 14:36:17] Error : Your query value is : 
+[2024-12-14 14:36:17] Error : Your query binding with error : 
+[2024-12-14 14:36:17] Error : Code : 0
+[2024-12-14 14:36:17] End log message
+[2024-12-14 14:36:17] ======================================================================================================
+
+[2024-12-14 14:36:17] ======================================================================================================
+[2024-12-14 14:36:17] Start log message:
+[2024-12-14 14:36:17] Error : Line number where getting error is : 44
+[2024-12-14 14:36:17] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:17] Error : Getting on your query : The route admin/images/1.png could not be found.
+[2024-12-14 14:36:17] Error : Your query value is : 
+[2024-12-14 14:36:17] Error : Your query binding with error : 
+[2024-12-14 14:36:17] Error : Code : 0
+[2024-12-14 14:36:17] End log message
+[2024-12-14 14:36:17] ======================================================================================================
+
+[2024-12-14 14:36:18] ======================================================================================================
+[2024-12-14 14:36:18] Start log message:
+[2024-12-14 14:36:18] Error : Line number where getting error is : 44
+[2024-12-14 14:36:18] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:18] Error : Getting on your query : The route admin/js/bootstrap.js could not be found.
+[2024-12-14 14:36:18] Error : Your query value is : 
+[2024-12-14 14:36:18] Error : Your query binding with error : 
+[2024-12-14 14:36:18] Error : Code : 0
+[2024-12-14 14:36:18] End log message
+[2024-12-14 14:36:18] ======================================================================================================
+
+[2024-12-14 14:36:18] ======================================================================================================
+[2024-12-14 14:36:18] Start log message:
+[2024-12-14 14:36:18] Error : Line number where getting error is : 44
+[2024-12-14 14:36:18] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:18] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 14:36:18] Error : Your query value is : 
+[2024-12-14 14:36:18] Error : Your query binding with error : 
+[2024-12-14 14:36:18] Error : Code : 0
+[2024-12-14 14:36:18] End log message
+[2024-12-14 14:36:18] ======================================================================================================
+
+[2024-12-14 14:36:19] ======================================================================================================
+[2024-12-14 14:36:19] Start log message:
+[2024-12-14 14:36:19] Error : Line number where getting error is : 44
+[2024-12-14 14:36:19] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:19] Error : Getting on your query : The route admin/js/jquery.dcjqaccordion.2.7.js could not be found.
+[2024-12-14 14:36:19] Error : Your query value is : 
+[2024-12-14 14:36:19] Error : Your query binding with error : 
+[2024-12-14 14:36:19] Error : Code : 0
+[2024-12-14 14:36:19] End log message
+[2024-12-14 14:36:19] ======================================================================================================
+
+[2024-12-14 14:36:19] ======================================================================================================
+[2024-12-14 14:36:19] Start log message:
+[2024-12-14 14:36:19] Error : Line number where getting error is : 44
+[2024-12-14 14:36:19] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:19] Error : Getting on your query : The route admin/js/scripts.js could not be found.
+[2024-12-14 14:36:19] Error : Your query value is : 
+[2024-12-14 14:36:19] Error : Your query binding with error : 
+[2024-12-14 14:36:19] Error : Code : 0
+[2024-12-14 14:36:19] End log message
+[2024-12-14 14:36:19] ======================================================================================================
+
+[2024-12-14 14:36:19] ======================================================================================================
+[2024-12-14 14:36:19] Start log message:
+[2024-12-14 14:36:19] Error : Line number where getting error is : 44
+[2024-12-14 14:36:19] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:19] Error : Getting on your query : The route admin/js/jquery.slimscroll.js could not be found.
+[2024-12-14 14:36:19] Error : Your query value is : 
+[2024-12-14 14:36:19] Error : Your query binding with error : 
+[2024-12-14 14:36:19] Error : Code : 0
+[2024-12-14 14:36:19] End log message
+[2024-12-14 14:36:19] ======================================================================================================
+
+[2024-12-14 14:36:20] ======================================================================================================
+[2024-12-14 14:36:20] Start log message:
+[2024-12-14 14:36:20] Error : Line number where getting error is : 44
+[2024-12-14 14:36:20] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:20] Error : Getting on your query : The route admin/js/jquery.nicescroll.js could not be found.
+[2024-12-14 14:36:20] Error : Your query value is : 
+[2024-12-14 14:36:20] Error : Your query binding with error : 
+[2024-12-14 14:36:20] Error : Code : 0
+[2024-12-14 14:36:20] End log message
+[2024-12-14 14:36:20] ======================================================================================================
+
+[2024-12-14 14:36:20] ======================================================================================================
+[2024-12-14 14:36:20] Start log message:
+[2024-12-14 14:36:20] Error : Line number where getting error is : 44
+[2024-12-14 14:36:20] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:20] Error : Getting on your query : The route admin/js/jquery.scrollTo.js could not be found.
+[2024-12-14 14:36:20] Error : Your query value is : 
+[2024-12-14 14:36:20] Error : Your query binding with error : 
+[2024-12-14 14:36:20] Error : Code : 0
+[2024-12-14 14:36:20] End log message
+[2024-12-14 14:36:20] ======================================================================================================
+
+[2024-12-14 14:36:21] ======================================================================================================
+[2024-12-14 14:36:21] Start log message:
+[2024-12-14 14:36:21] Error : Line number where getting error is : 44
+[2024-12-14 14:36:21] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:21] Error : Getting on your query : The route admin/js/monthly.js could not be found.
+[2024-12-14 14:36:21] Error : Your query value is : 
+[2024-12-14 14:36:21] Error : Your query binding with error : 
+[2024-12-14 14:36:21] Error : Code : 0
+[2024-12-14 14:36:21] End log message
+[2024-12-14 14:36:21] ======================================================================================================
+
+[2024-12-14 14:36:52] ======================================================================================================
+[2024-12-14 14:36:52] Start log message:
+[2024-12-14 14:36:52] Error : Line number where getting error is : 44
+[2024-12-14 14:36:52] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:52] Error : Getting on your query : The route admin/css/style.css could not be found.
+[2024-12-14 14:36:52] Error : Your query value is : 
+[2024-12-14 14:36:52] Error : Your query binding with error : 
+[2024-12-14 14:36:52] Error : Code : 0
+[2024-12-14 14:36:52] End log message
+[2024-12-14 14:36:52] ======================================================================================================
+
+[2024-12-14 14:36:52] ======================================================================================================
+[2024-12-14 14:36:52] Start log message:
+[2024-12-14 14:36:52] Error : Line number where getting error is : 44
+[2024-12-14 14:36:52] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:52] Error : Getting on your query : The route admin/css/style-responsive.css could not be found.
+[2024-12-14 14:36:52] Error : Your query value is : 
+[2024-12-14 14:36:52] Error : Your query binding with error : 
+[2024-12-14 14:36:52] Error : Code : 0
+[2024-12-14 14:36:52] End log message
+[2024-12-14 14:36:52] ======================================================================================================
+
+[2024-12-14 14:36:53] ======================================================================================================
+[2024-12-14 14:36:53] Start log message:
+[2024-12-14 14:36:53] Error : Line number where getting error is : 44
+[2024-12-14 14:36:53] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:53] Error : Getting on your query : The route admin/css/morris.css could not be found.
+[2024-12-14 14:36:53] Error : Your query value is : 
+[2024-12-14 14:36:53] Error : Your query binding with error : 
+[2024-12-14 14:36:53] Error : Code : 0
+[2024-12-14 14:36:53] End log message
+[2024-12-14 14:36:53] ======================================================================================================
+
+[2024-12-14 14:36:53] ======================================================================================================
+[2024-12-14 14:36:53] Start log message:
+[2024-12-14 14:36:53] Error : Line number where getting error is : 44
+[2024-12-14 14:36:53] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:53] Error : Getting on your query : The route admin/css/font-awesome.css could not be found.
+[2024-12-14 14:36:53] Error : Your query value is : 
+[2024-12-14 14:36:53] Error : Your query binding with error : 
+[2024-12-14 14:36:53] Error : Code : 0
+[2024-12-14 14:36:53] End log message
+[2024-12-14 14:36:53] ======================================================================================================
+
+[2024-12-14 14:36:54] ======================================================================================================
+[2024-12-14 14:36:54] Start log message:
+[2024-12-14 14:36:54] Error : Line number where getting error is : 44
+[2024-12-14 14:36:54] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:54] Error : Getting on your query : The route admin/css/font.css could not be found.
+[2024-12-14 14:36:54] Error : Your query value is : 
+[2024-12-14 14:36:54] Error : Your query binding with error : 
+[2024-12-14 14:36:54] Error : Code : 0
+[2024-12-14 14:36:54] End log message
+[2024-12-14 14:36:54] ======================================================================================================
+
+[2024-12-14 14:36:54] ======================================================================================================
+[2024-12-14 14:36:54] Start log message:
+[2024-12-14 14:36:54] Error : Line number where getting error is : 44
+[2024-12-14 14:36:54] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:54] Error : Getting on your query : The route admin/css/monthly.css could not be found.
+[2024-12-14 14:36:54] Error : Your query value is : 
+[2024-12-14 14:36:54] Error : Your query binding with error : 
+[2024-12-14 14:36:54] Error : Code : 0
+[2024-12-14 14:36:54] End log message
+[2024-12-14 14:36:54] ======================================================================================================
+
+[2024-12-14 14:36:55] ======================================================================================================
+[2024-12-14 14:36:55] Start log message:
+[2024-12-14 14:36:55] Error : Line number where getting error is : 44
+[2024-12-14 14:36:55] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:55] Error : Getting on your query : The route admin/js/jquery2.0.3.min.js could not be found.
+[2024-12-14 14:36:55] Error : Your query value is : 
+[2024-12-14 14:36:55] Error : Your query binding with error : 
+[2024-12-14 14:36:55] Error : Code : 0
+[2024-12-14 14:36:55] End log message
+[2024-12-14 14:36:55] ======================================================================================================
+
+[2024-12-14 14:36:55] ======================================================================================================
+[2024-12-14 14:36:55] Start log message:
+[2024-12-14 14:36:55] Error : Line number where getting error is : 44
+[2024-12-14 14:36:55] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:55] Error : Getting on your query : The route admin/js/raphael-min.js could not be found.
+[2024-12-14 14:36:55] Error : Your query value is : 
+[2024-12-14 14:36:55] Error : Your query binding with error : 
+[2024-12-14 14:36:55] Error : Code : 0
+[2024-12-14 14:36:55] End log message
+[2024-12-14 14:36:55] ======================================================================================================
+
+[2024-12-14 14:36:56] ======================================================================================================
+[2024-12-14 14:36:56] Start log message:
+[2024-12-14 14:36:56] Error : Line number where getting error is : 44
+[2024-12-14 14:36:56] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:56] Error : Getting on your query : The route admin/js/morris.js could not be found.
+[2024-12-14 14:36:56] Error : Your query value is : 
+[2024-12-14 14:36:56] Error : Your query binding with error : 
+[2024-12-14 14:36:56] Error : Code : 0
+[2024-12-14 14:36:56] End log message
+[2024-12-14 14:36:56] ======================================================================================================
+
+[2024-12-14 14:36:56] ======================================================================================================
+[2024-12-14 14:36:56] Start log message:
+[2024-12-14 14:36:56] Error : Line number where getting error is : 44
+[2024-12-14 14:36:56] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:56] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 14:36:56] Error : Your query value is : 
+[2024-12-14 14:36:56] Error : Your query binding with error : 
+[2024-12-14 14:36:56] Error : Code : 0
+[2024-12-14 14:36:56] End log message
+[2024-12-14 14:36:56] ======================================================================================================
+
+[2024-12-14 14:36:57] ======================================================================================================
+[2024-12-14 14:36:57] Start log message:
+[2024-12-14 14:36:57] Error : Line number where getting error is : 44
+[2024-12-14 14:36:57] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:57] Error : Getting on your query : The route admin/images/1.png could not be found.
+[2024-12-14 14:36:57] Error : Your query value is : 
+[2024-12-14 14:36:57] Error : Your query binding with error : 
+[2024-12-14 14:36:57] Error : Code : 0
+[2024-12-14 14:36:57] End log message
+[2024-12-14 14:36:57] ======================================================================================================
+
+[2024-12-14 14:36:57] ======================================================================================================
+[2024-12-14 14:36:57] Start log message:
+[2024-12-14 14:36:57] Error : Line number where getting error is : 44
+[2024-12-14 14:36:57] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:57] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 14:36:57] Error : Your query value is : 
+[2024-12-14 14:36:57] Error : Your query binding with error : 
+[2024-12-14 14:36:57] Error : Code : 0
+[2024-12-14 14:36:57] End log message
+[2024-12-14 14:36:57] ======================================================================================================
+
+[2024-12-14 14:36:58] ======================================================================================================
+[2024-12-14 14:36:58] Start log message:
+[2024-12-14 14:36:58] Error : Line number where getting error is : 44
+[2024-12-14 14:36:58] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:58] Error : Getting on your query : The route admin/js/bootstrap.js could not be found.
+[2024-12-14 14:36:58] Error : Your query value is : 
+[2024-12-14 14:36:58] Error : Your query binding with error : 
+[2024-12-14 14:36:58] Error : Code : 0
+[2024-12-14 14:36:58] End log message
+[2024-12-14 14:36:58] ======================================================================================================
+
+[2024-12-14 14:36:58] ======================================================================================================
+[2024-12-14 14:36:58] Start log message:
+[2024-12-14 14:36:58] Error : Line number where getting error is : 44
+[2024-12-14 14:36:58] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:58] Error : Getting on your query : The route admin/js/jquery.dcjqaccordion.2.7.js could not be found.
+[2024-12-14 14:36:58] Error : Your query value is : 
+[2024-12-14 14:36:58] Error : Your query binding with error : 
+[2024-12-14 14:36:58] Error : Code : 0
+[2024-12-14 14:36:58] End log message
+[2024-12-14 14:36:58] ======================================================================================================
+
+[2024-12-14 14:36:59] ======================================================================================================
+[2024-12-14 14:36:59] Start log message:
+[2024-12-14 14:36:59] Error : Line number where getting error is : 44
+[2024-12-14 14:36:59] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:59] Error : Getting on your query : The route admin/js/scripts.js could not be found.
+[2024-12-14 14:36:59] Error : Your query value is : 
+[2024-12-14 14:36:59] Error : Your query binding with error : 
+[2024-12-14 14:36:59] Error : Code : 0
+[2024-12-14 14:36:59] End log message
+[2024-12-14 14:36:59] ======================================================================================================
+
+[2024-12-14 14:36:59] ======================================================================================================
+[2024-12-14 14:36:59] Start log message:
+[2024-12-14 14:36:59] Error : Line number where getting error is : 44
+[2024-12-14 14:36:59] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:59] Error : Getting on your query : The route admin/js/jquery.nicescroll.js could not be found.
+[2024-12-14 14:36:59] Error : Your query value is : 
+[2024-12-14 14:36:59] Error : Your query binding with error : 
+[2024-12-14 14:36:59] Error : Code : 0
+[2024-12-14 14:36:59] End log message
+[2024-12-14 14:36:59] ======================================================================================================
+
+[2024-12-14 14:36:59] ======================================================================================================
+[2024-12-14 14:36:59] Start log message:
+[2024-12-14 14:36:59] Error : Line number where getting error is : 44
+[2024-12-14 14:36:59] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:36:59] Error : Getting on your query : The route admin/js/jquery.slimscroll.js could not be found.
+[2024-12-14 14:36:59] Error : Your query value is : 
+[2024-12-14 14:36:59] Error : Your query binding with error : 
+[2024-12-14 14:36:59] Error : Code : 0
+[2024-12-14 14:36:59] End log message
+[2024-12-14 14:36:59] ======================================================================================================
+
+[2024-12-14 14:37:00] ======================================================================================================
+[2024-12-14 14:37:00] Start log message:
+[2024-12-14 14:37:00] Error : Line number where getting error is : 44
+[2024-12-14 14:37:00] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:37:00] Error : Getting on your query : The route admin/js/jquery.scrollTo.js could not be found.
+[2024-12-14 14:37:00] Error : Your query value is : 
+[2024-12-14 14:37:00] Error : Your query binding with error : 
+[2024-12-14 14:37:00] Error : Code : 0
+[2024-12-14 14:37:00] End log message
+[2024-12-14 14:37:00] ======================================================================================================
+
+[2024-12-14 14:37:00] ======================================================================================================
+[2024-12-14 14:37:00] Start log message:
+[2024-12-14 14:37:00] Error : Line number where getting error is : 44
+[2024-12-14 14:37:00] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:37:00] Error : Getting on your query : The route admin/js/monthly.js could not be found.
+[2024-12-14 14:37:00] Error : Your query value is : 
+[2024-12-14 14:37:00] Error : Your query binding with error : 
+[2024-12-14 14:37:00] Error : Code : 0
+[2024-12-14 14:37:00] End log message
+[2024-12-14 14:37:00] ======================================================================================================
+
+[2024-12-14 14:41:49] ======================================================================================================
+[2024-12-14 14:41:49] Start log message:
+[2024-12-14 14:41:49] Error : Line number where getting error is : 44
+[2024-12-14 14:41:49] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:41:49] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 14:41:49] Error : Your query value is : 
+[2024-12-14 14:41:49] Error : Your query binding with error : 
+[2024-12-14 14:41:49] Error : Code : 0
+[2024-12-14 14:41:49] End log message
+[2024-12-14 14:41:49] ======================================================================================================
+
+[2024-12-14 14:41:49] ======================================================================================================
+[2024-12-14 14:41:49] Start log message:
+[2024-12-14 14:41:49] Error : Line number where getting error is : 44
+[2024-12-14 14:41:49] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:41:49] Error : Getting on your query : The route admin/images/1.png could not be found.
+[2024-12-14 14:41:49] Error : Your query value is : 
+[2024-12-14 14:41:49] Error : Your query binding with error : 
+[2024-12-14 14:41:49] Error : Code : 0
+[2024-12-14 14:41:49] End log message
+[2024-12-14 14:41:49] ======================================================================================================
+
+[2024-12-14 14:41:50] ======================================================================================================
+[2024-12-14 14:41:50] Start log message:
+[2024-12-14 14:41:50] Error : Line number where getting error is : 44
+[2024-12-14 14:41:50] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:41:50] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 14:41:50] Error : Your query value is : 
+[2024-12-14 14:41:50] Error : Your query binding with error : 
+[2024-12-14 14:41:50] Error : Code : 0
+[2024-12-14 14:41:50] End log message
+[2024-12-14 14:41:50] ======================================================================================================
+
+[2024-12-14 14:41:51] ======================================================================================================
+[2024-12-14 14:41:51] Start log message:
+[2024-12-14 14:41:51] Error : Line number where getting error is : 44
+[2024-12-14 14:41:51] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:41:51] Error : Getting on your query : The route admin/js/monthly.js could not be found.
+[2024-12-14 14:41:51] Error : Your query value is : 
+[2024-12-14 14:41:51] Error : Your query binding with error : 
+[2024-12-14 14:41:51] Error : Code : 0
+[2024-12-14 14:41:51] End log message
+[2024-12-14 14:41:51] ======================================================================================================
+
+[2024-12-14 14:41:51] ======================================================================================================
+[2024-12-14 14:41:51] Start log message:
+[2024-12-14 14:41:51] Error : Line number where getting error is : 44
+[2024-12-14 14:41:51] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:41:51] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 14:41:51] Error : Your query value is : 
+[2024-12-14 14:41:51] Error : Your query binding with error : 
+[2024-12-14 14:41:51] Error : Code : 0
+[2024-12-14 14:41:51] End log message
+[2024-12-14 14:41:51] ======================================================================================================
+
+[2024-12-14 14:42:09] ======================================================================================================
+[2024-12-14 14:42:09] Start log message:
+[2024-12-14 14:42:09] Error : Line number where getting error is : 44
+[2024-12-14 14:42:09] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:42:09] Error : Getting on your query : The route admin/tool/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 14:42:09] Error : Your query value is : 
+[2024-12-14 14:42:09] Error : Your query binding with error : 
+[2024-12-14 14:42:09] Error : Code : 0
+[2024-12-14 14:42:09] End log message
+[2024-12-14 14:42:09] ======================================================================================================
+
+[2024-12-14 14:42:37] ======================================================================================================
+[2024-12-14 14:42:37] Start log message:
+[2024-12-14 14:42:37] Error : Line number where getting error is : 44
+[2024-12-14 14:42:37] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:42:37] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 14:42:37] Error : Your query value is : 
+[2024-12-14 14:42:37] Error : Your query binding with error : 
+[2024-12-14 14:42:37] Error : Code : 0
+[2024-12-14 14:42:37] End log message
+[2024-12-14 14:42:37] ======================================================================================================
+
+[2024-12-14 14:42:38] ======================================================================================================
+[2024-12-14 14:42:38] Start log message:
+[2024-12-14 14:42:38] Error : Line number where getting error is : 44
+[2024-12-14 14:42:38] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:42:38] Error : Getting on your query : The route admin/images/1.png could not be found.
+[2024-12-14 14:42:38] Error : Your query value is : 
+[2024-12-14 14:42:38] Error : Your query binding with error : 
+[2024-12-14 14:42:38] Error : Code : 0
+[2024-12-14 14:42:38] End log message
+[2024-12-14 14:42:38] ======================================================================================================
+
+[2024-12-14 14:42:38] ======================================================================================================
+[2024-12-14 14:42:38] Start log message:
+[2024-12-14 14:42:38] Error : Line number where getting error is : 44
+[2024-12-14 14:42:38] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:42:38] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 14:42:38] Error : Your query value is : 
+[2024-12-14 14:42:38] Error : Your query binding with error : 
+[2024-12-14 14:42:38] Error : Code : 0
+[2024-12-14 14:42:38] End log message
+[2024-12-14 14:42:38] ======================================================================================================
+
+[2024-12-14 14:42:39] ======================================================================================================
+[2024-12-14 14:42:39] Start log message:
+[2024-12-14 14:42:39] Error : Line number where getting error is : 44
+[2024-12-14 14:42:39] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:42:39] Error : Getting on your query : The route admin/js/monthly.js could not be found.
+[2024-12-14 14:42:39] Error : Your query value is : 
+[2024-12-14 14:42:39] Error : Your query binding with error : 
+[2024-12-14 14:42:39] Error : Code : 0
+[2024-12-14 14:42:39] End log message
+[2024-12-14 14:42:39] ======================================================================================================
+
+[2024-12-14 14:49:16] ======================================================================================================
+[2024-12-14 14:49:16] Start log message:
+[2024-12-14 14:49:16] Error : Line number where getting error is : 44
+[2024-12-14 14:49:16] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:49:16] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 14:49:16] Error : Your query value is : 
+[2024-12-14 14:49:16] Error : Your query binding with error : 
+[2024-12-14 14:49:16] Error : Code : 0
+[2024-12-14 14:49:16] End log message
+[2024-12-14 14:49:16] ======================================================================================================
+
+[2024-12-14 14:49:17] ======================================================================================================
+[2024-12-14 14:49:17] Start log message:
+[2024-12-14 14:49:17] Error : Line number where getting error is : 44
+[2024-12-14 14:49:17] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:49:17] Error : Getting on your query : The route admin/images/1.png could not be found.
+[2024-12-14 14:49:17] Error : Your query value is : 
+[2024-12-14 14:49:17] Error : Your query binding with error : 
+[2024-12-14 14:49:17] Error : Code : 0
+[2024-12-14 14:49:17] End log message
+[2024-12-14 14:49:17] ======================================================================================================
+
+[2024-12-14 14:49:17] ======================================================================================================
+[2024-12-14 14:49:17] Start log message:
+[2024-12-14 14:49:17] Error : Line number where getting error is : 44
+[2024-12-14 14:49:17] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:49:17] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 14:49:17] Error : Your query value is : 
+[2024-12-14 14:49:17] Error : Your query binding with error : 
+[2024-12-14 14:49:17] Error : Code : 0
+[2024-12-14 14:49:17] End log message
+[2024-12-14 14:49:17] ======================================================================================================
+
+[2024-12-14 14:49:27] ======================================================================================================
+[2024-12-14 14:49:27] Start log message:
+[2024-12-14 14:49:27] Error : Line number where getting error is : 44
+[2024-12-14 14:49:27] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:49:27] Error : Getting on your query : The route admin/login.html could not be found.
+[2024-12-14 14:49:27] Error : Your query value is : 
+[2024-12-14 14:49:27] Error : Your query binding with error : 
+[2024-12-14 14:49:27] Error : Code : 0
+[2024-12-14 14:49:27] End log message
+[2024-12-14 14:49:27] ======================================================================================================
+
+[2024-12-14 14:53:37] ======================================================================================================
+[2024-12-14 14:53:37] Start log message:
+[2024-12-14 14:53:37] Error : Line number where getting error is : 44
+[2024-12-14 14:53:37] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:53:37] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 14:53:37] Error : Your query value is : 
+[2024-12-14 14:53:37] Error : Your query binding with error : 
+[2024-12-14 14:53:37] Error : Code : 0
+[2024-12-14 14:53:37] End log message
+[2024-12-14 14:53:37] ======================================================================================================
+
+[2024-12-14 14:53:38] ======================================================================================================
+[2024-12-14 14:53:38] Start log message:
+[2024-12-14 14:53:38] Error : Line number where getting error is : 44
+[2024-12-14 14:53:38] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:53:38] Error : Getting on your query : The route admin/images/1.png could not be found.
+[2024-12-14 14:53:38] Error : Your query value is : 
+[2024-12-14 14:53:38] Error : Your query binding with error : 
+[2024-12-14 14:53:38] Error : Code : 0
+[2024-12-14 14:53:38] End log message
+[2024-12-14 14:53:38] ======================================================================================================
+
+[2024-12-14 14:53:38] ======================================================================================================
+[2024-12-14 14:53:38] Start log message:
+[2024-12-14 14:53:38] Error : Line number where getting error is : 44
+[2024-12-14 14:53:38] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:53:38] Error : Getting on your query : The route admin/js/monthly.js could not be found.
+[2024-12-14 14:53:38] Error : Your query value is : 
+[2024-12-14 14:53:38] Error : Your query binding with error : 
+[2024-12-14 14:53:38] Error : Code : 0
+[2024-12-14 14:53:38] End log message
+[2024-12-14 14:53:38] ======================================================================================================
+
+[2024-12-14 14:53:39] ======================================================================================================
+[2024-12-14 14:53:39] Start log message:
+[2024-12-14 14:53:39] Error : Line number where getting error is : 44
+[2024-12-14 14:53:39] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:53:39] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 14:53:39] Error : Your query value is : 
+[2024-12-14 14:53:39] Error : Your query binding with error : 
+[2024-12-14 14:53:39] Error : Code : 0
+[2024-12-14 14:53:39] End log message
+[2024-12-14 14:53:39] ======================================================================================================
+
+[2024-12-14 14:53:59] ======================================================================================================
+[2024-12-14 14:53:59] Start log message:
+[2024-12-14 14:53:59] Error : Line number where getting error is : 44
+[2024-12-14 14:53:59] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:53:59] Error : Getting on your query : The route admin/tool/js/monthly.js could not be found.
+[2024-12-14 14:53:59] Error : Your query value is : 
+[2024-12-14 14:53:59] Error : Your query binding with error : 
+[2024-12-14 14:53:59] Error : Code : 0
+[2024-12-14 14:53:59] End log message
+[2024-12-14 14:53:59] ======================================================================================================
+
+[2024-12-14 14:55:23] ======================================================================================================
+[2024-12-14 14:55:23] Start log message:
+[2024-12-14 14:55:23] Error : Line number where getting error is : 44
+[2024-12-14 14:55:23] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:55:23] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 14:55:23] Error : Your query value is : 
+[2024-12-14 14:55:23] Error : Your query binding with error : 
+[2024-12-14 14:55:23] Error : Code : 0
+[2024-12-14 14:55:23] End log message
+[2024-12-14 14:55:23] ======================================================================================================
+
+[2024-12-14 14:55:23] ======================================================================================================
+[2024-12-14 14:55:23] Start log message:
+[2024-12-14 14:55:23] Error : Line number where getting error is : 44
+[2024-12-14 14:55:23] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:55:23] Error : Getting on your query : The route admin/images/1.png could not be found.
+[2024-12-14 14:55:23] Error : Your query value is : 
+[2024-12-14 14:55:23] Error : Your query binding with error : 
+[2024-12-14 14:55:23] Error : Code : 0
+[2024-12-14 14:55:23] End log message
+[2024-12-14 14:55:23] ======================================================================================================
+
+[2024-12-14 14:55:24] ======================================================================================================
+[2024-12-14 14:55:24] Start log message:
+[2024-12-14 14:55:24] Error : Line number where getting error is : 44
+[2024-12-14 14:55:24] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:55:24] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 14:55:24] Error : Your query value is : 
+[2024-12-14 14:55:24] Error : Your query binding with error : 
+[2024-12-14 14:55:24] Error : Code : 0
+[2024-12-14 14:55:24] End log message
+[2024-12-14 14:55:24] ======================================================================================================
+
+[2024-12-14 14:55:24] ======================================================================================================
+[2024-12-14 14:55:24] Start log message:
+[2024-12-14 14:55:24] Error : Line number where getting error is : 44
+[2024-12-14 14:55:24] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:55:24] Error : Getting on your query : The route admin/js/monthly.js could not be found.
+[2024-12-14 14:55:24] Error : Your query value is : 
+[2024-12-14 14:55:24] Error : Your query binding with error : 
+[2024-12-14 14:55:24] Error : Code : 0
+[2024-12-14 14:55:24] End log message
+[2024-12-14 14:55:24] ======================================================================================================
+
+[2024-12-14 14:57:01] ======================================================================================================
+[2024-12-14 14:57:01] Start log message:
+[2024-12-14 14:57:01] Error : Line number where getting error is : 44
+[2024-12-14 14:57:01] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:57:01] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 14:57:01] Error : Your query value is : 
+[2024-12-14 14:57:01] Error : Your query binding with error : 
+[2024-12-14 14:57:01] Error : Code : 0
+[2024-12-14 14:57:01] End log message
+[2024-12-14 14:57:01] ======================================================================================================
+
+[2024-12-14 14:57:01] ======================================================================================================
+[2024-12-14 14:57:01] Start log message:
+[2024-12-14 14:57:01] Error : Line number where getting error is : 44
+[2024-12-14 14:57:01] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:57:01] Error : Getting on your query : The route admin/images/1.png could not be found.
+[2024-12-14 14:57:01] Error : Your query value is : 
+[2024-12-14 14:57:01] Error : Your query binding with error : 
+[2024-12-14 14:57:01] Error : Code : 0
+[2024-12-14 14:57:01] End log message
+[2024-12-14 14:57:01] ======================================================================================================
+
+[2024-12-14 14:57:01] ======================================================================================================
+[2024-12-14 14:57:01] Start log message:
+[2024-12-14 14:57:01] Error : Line number where getting error is : 44
+[2024-12-14 14:57:01] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:57:01] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 14:57:01] Error : Your query value is : 
+[2024-12-14 14:57:01] Error : Your query binding with error : 
+[2024-12-14 14:57:01] Error : Code : 0
+[2024-12-14 14:57:01] End log message
+[2024-12-14 14:57:01] ======================================================================================================
+
+[2024-12-14 14:57:02] ======================================================================================================
+[2024-12-14 14:57:02] Start log message:
+[2024-12-14 14:57:02] Error : Line number where getting error is : 44
+[2024-12-14 14:57:02] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:57:02] Error : Getting on your query : The route admin/js/monthly.js could not be found.
+[2024-12-14 14:57:02] Error : Your query value is : 
+[2024-12-14 14:57:02] Error : Your query binding with error : 
+[2024-12-14 14:57:02] Error : Code : 0
+[2024-12-14 14:57:02] End log message
+[2024-12-14 14:57:02] ======================================================================================================
+
+[2024-12-14 14:57:42] ======================================================================================================
+[2024-12-14 14:57:42] Start log message:
+[2024-12-14 14:57:42] Error : Line number where getting error is : 44
+[2024-12-14 14:57:42] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:57:42] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 14:57:42] Error : Your query value is : 
+[2024-12-14 14:57:42] Error : Your query binding with error : 
+[2024-12-14 14:57:42] Error : Code : 0
+[2024-12-14 14:57:42] End log message
+[2024-12-14 14:57:42] ======================================================================================================
+
+[2024-12-14 14:57:42] ======================================================================================================
+[2024-12-14 14:57:42] Start log message:
+[2024-12-14 14:57:42] Error : Line number where getting error is : 44
+[2024-12-14 14:57:42] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:57:42] Error : Getting on your query : The route admin/images/1.png could not be found.
+[2024-12-14 14:57:42] Error : Your query value is : 
+[2024-12-14 14:57:42] Error : Your query binding with error : 
+[2024-12-14 14:57:42] Error : Code : 0
+[2024-12-14 14:57:42] End log message
+[2024-12-14 14:57:42] ======================================================================================================
+
+[2024-12-14 14:57:43] ======================================================================================================
+[2024-12-14 14:57:43] Start log message:
+[2024-12-14 14:57:43] Error : Line number where getting error is : 44
+[2024-12-14 14:57:43] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:57:43] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 14:57:43] Error : Your query value is : 
+[2024-12-14 14:57:43] Error : Your query binding with error : 
+[2024-12-14 14:57:43] Error : Code : 0
+[2024-12-14 14:57:43] End log message
+[2024-12-14 14:57:43] ======================================================================================================
+
+[2024-12-14 14:57:43] ======================================================================================================
+[2024-12-14 14:57:43] Start log message:
+[2024-12-14 14:57:43] Error : Line number where getting error is : 44
+[2024-12-14 14:57:43] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:57:43] Error : Getting on your query : The route admin/js/monthly.js could not be found.
+[2024-12-14 14:57:43] Error : Your query value is : 
+[2024-12-14 14:57:43] Error : Your query binding with error : 
+[2024-12-14 14:57:43] Error : Code : 0
+[2024-12-14 14:57:43] End log message
+[2024-12-14 14:57:43] ======================================================================================================
+
+[2024-12-14 14:59:20] ======================================================================================================
+[2024-12-14 14:59:20] Start log message:
+[2024-12-14 14:59:20] Error : Line number where getting error is : 44
+[2024-12-14 14:59:20] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:20] Error : Getting on your query : The route admin/css/style-responsive.css could not be found.
+[2024-12-14 14:59:20] Error : Your query value is : 
+[2024-12-14 14:59:20] Error : Your query binding with error : 
+[2024-12-14 14:59:20] Error : Code : 0
+[2024-12-14 14:59:20] End log message
+[2024-12-14 14:59:20] ======================================================================================================
+
+[2024-12-14 14:59:21] ======================================================================================================
+[2024-12-14 14:59:21] Start log message:
+[2024-12-14 14:59:21] Error : Line number where getting error is : 44
+[2024-12-14 14:59:21] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:21] Error : Getting on your query : The route admin/css/font.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 14:59:21] Error : Your query value is : 
+[2024-12-14 14:59:21] Error : Your query binding with error : 
+[2024-12-14 14:59:21] Error : Code : 0
+[2024-12-14 14:59:21] End log message
+[2024-12-14 14:59:21] ======================================================================================================
+
+[2024-12-14 14:59:21] ======================================================================================================
+[2024-12-14 14:59:21] Start log message:
+[2024-12-14 14:59:21] Error : Line number where getting error is : 44
+[2024-12-14 14:59:21] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:21] Error : Getting on your query : The route admin/css/font-awesome.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 14:59:21] Error : Your query value is : 
+[2024-12-14 14:59:21] Error : Your query binding with error : 
+[2024-12-14 14:59:21] Error : Code : 0
+[2024-12-14 14:59:21] End log message
+[2024-12-14 14:59:21] ======================================================================================================
+
+[2024-12-14 14:59:21] ======================================================================================================
+[2024-12-14 14:59:21] Start log message:
+[2024-12-14 14:59:21] Error : Line number where getting error is : 44
+[2024-12-14 14:59:21] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:21] Error : Getting on your query : The route admin/css/morris.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 14:59:21] Error : Your query value is : 
+[2024-12-14 14:59:21] Error : Your query binding with error : 
+[2024-12-14 14:59:21] Error : Code : 0
+[2024-12-14 14:59:21] End log message
+[2024-12-14 14:59:21] ======================================================================================================
+
+[2024-12-14 14:59:22] ======================================================================================================
+[2024-12-14 14:59:22] Start log message:
+[2024-12-14 14:59:22] Error : Line number where getting error is : 44
+[2024-12-14 14:59:22] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:22] Error : Getting on your query : The route admin/css/monthly.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 14:59:22] Error : Your query value is : 
+[2024-12-14 14:59:22] Error : Your query binding with error : 
+[2024-12-14 14:59:22] Error : Code : 0
+[2024-12-14 14:59:22] End log message
+[2024-12-14 14:59:22] ======================================================================================================
+
+[2024-12-14 14:59:22] ======================================================================================================
+[2024-12-14 14:59:22] Start log message:
+[2024-12-14 14:59:22] Error : Line number where getting error is : 44
+[2024-12-14 14:59:22] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:22] Error : Getting on your query : The route admin/js/jquery2.0.3.min.jshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 14:59:22] Error : Your query value is : 
+[2024-12-14 14:59:22] Error : Your query binding with error : 
+[2024-12-14 14:59:22] Error : Code : 0
+[2024-12-14 14:59:22] End log message
+[2024-12-14 14:59:22] ======================================================================================================
+
+[2024-12-14 14:59:22] ======================================================================================================
+[2024-12-14 14:59:22] Start log message:
+[2024-12-14 14:59:22] Error : Line number where getting error is : 44
+[2024-12-14 14:59:22] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:22] Error : Getting on your query : The route admin/js/raphael-min.jshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 14:59:22] Error : Your query value is : 
+[2024-12-14 14:59:22] Error : Your query binding with error : 
+[2024-12-14 14:59:22] Error : Code : 0
+[2024-12-14 14:59:22] End log message
+[2024-12-14 14:59:22] ======================================================================================================
+
+[2024-12-14 14:59:23] ======================================================================================================
+[2024-12-14 14:59:23] Start log message:
+[2024-12-14 14:59:23] Error : Line number where getting error is : 44
+[2024-12-14 14:59:23] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:23] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 14:59:23] Error : Your query value is : 
+[2024-12-14 14:59:23] Error : Your query binding with error : 
+[2024-12-14 14:59:23] Error : Code : 0
+[2024-12-14 14:59:23] End log message
+[2024-12-14 14:59:23] ======================================================================================================
+
+[2024-12-14 14:59:23] ======================================================================================================
+[2024-12-14 14:59:23] Start log message:
+[2024-12-14 14:59:23] Error : Line number where getting error is : 44
+[2024-12-14 14:59:23] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:23] Error : Getting on your query : The route admin/images/1.png could not be found.
+[2024-12-14 14:59:23] Error : Your query value is : 
+[2024-12-14 14:59:23] Error : Your query binding with error : 
+[2024-12-14 14:59:23] Error : Code : 0
+[2024-12-14 14:59:23] End log message
+[2024-12-14 14:59:23] ======================================================================================================
+
+[2024-12-14 14:59:24] ======================================================================================================
+[2024-12-14 14:59:24] Start log message:
+[2024-12-14 14:59:24] Error : Line number where getting error is : 44
+[2024-12-14 14:59:24] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:24] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 14:59:24] Error : Your query value is : 
+[2024-12-14 14:59:24] Error : Your query binding with error : 
+[2024-12-14 14:59:24] Error : Code : 0
+[2024-12-14 14:59:24] End log message
+[2024-12-14 14:59:24] ======================================================================================================
+
+[2024-12-14 14:59:24] ======================================================================================================
+[2024-12-14 14:59:24] Start log message:
+[2024-12-14 14:59:24] Error : Line number where getting error is : 44
+[2024-12-14 14:59:24] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:24] Error : Getting on your query : The route admin/js/bootstrap.js could not be found.
+[2024-12-14 14:59:24] Error : Your query value is : 
+[2024-12-14 14:59:24] Error : Your query binding with error : 
+[2024-12-14 14:59:24] Error : Code : 0
+[2024-12-14 14:59:24] End log message
+[2024-12-14 14:59:24] ======================================================================================================
+
+[2024-12-14 14:59:24] ======================================================================================================
+[2024-12-14 14:59:24] Start log message:
+[2024-12-14 14:59:24] Error : Line number where getting error is : 44
+[2024-12-14 14:59:24] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:24] Error : Getting on your query : The route admin/js/jquery.dcjqaccordion.2.7.js could not be found.
+[2024-12-14 14:59:24] Error : Your query value is : 
+[2024-12-14 14:59:24] Error : Your query binding with error : 
+[2024-12-14 14:59:24] Error : Code : 0
+[2024-12-14 14:59:24] End log message
+[2024-12-14 14:59:24] ======================================================================================================
+
+[2024-12-14 14:59:25] ======================================================================================================
+[2024-12-14 14:59:25] Start log message:
+[2024-12-14 14:59:25] Error : Line number where getting error is : 44
+[2024-12-14 14:59:25] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:25] Error : Getting on your query : The route admin/js/scripts.js could not be found.
+[2024-12-14 14:59:25] Error : Your query value is : 
+[2024-12-14 14:59:25] Error : Your query binding with error : 
+[2024-12-14 14:59:25] Error : Code : 0
+[2024-12-14 14:59:25] End log message
+[2024-12-14 14:59:25] ======================================================================================================
+
+[2024-12-14 14:59:25] ======================================================================================================
+[2024-12-14 14:59:25] Start log message:
+[2024-12-14 14:59:25] Error : Line number where getting error is : 44
+[2024-12-14 14:59:25] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:25] Error : Getting on your query : The route admin/js/jquery.slimscroll.js could not be found.
+[2024-12-14 14:59:25] Error : Your query value is : 
+[2024-12-14 14:59:25] Error : Your query binding with error : 
+[2024-12-14 14:59:25] Error : Code : 0
+[2024-12-14 14:59:25] End log message
+[2024-12-14 14:59:25] ======================================================================================================
+
+[2024-12-14 14:59:26] ======================================================================================================
+[2024-12-14 14:59:26] Start log message:
+[2024-12-14 14:59:26] Error : Line number where getting error is : 44
+[2024-12-14 14:59:26] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:26] Error : Getting on your query : The route admin/js/jquery.nicescroll.js could not be found.
+[2024-12-14 14:59:26] Error : Your query value is : 
+[2024-12-14 14:59:26] Error : Your query binding with error : 
+[2024-12-14 14:59:26] Error : Code : 0
+[2024-12-14 14:59:26] End log message
+[2024-12-14 14:59:26] ======================================================================================================
+
+[2024-12-14 14:59:26] ======================================================================================================
+[2024-12-14 14:59:26] Start log message:
+[2024-12-14 14:59:26] Error : Line number where getting error is : 44
+[2024-12-14 14:59:26] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:26] Error : Getting on your query : The route admin/js/jquery.scrollTo.js could not be found.
+[2024-12-14 14:59:26] Error : Your query value is : 
+[2024-12-14 14:59:26] Error : Your query binding with error : 
+[2024-12-14 14:59:26] Error : Code : 0
+[2024-12-14 14:59:26] End log message
+[2024-12-14 14:59:26] ======================================================================================================
+
+[2024-12-14 14:59:27] ======================================================================================================
+[2024-12-14 14:59:27] Start log message:
+[2024-12-14 14:59:27] Error : Line number where getting error is : 44
+[2024-12-14 14:59:27] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:27] Error : Getting on your query : The route admin/js/monthly.js could not be found.
+[2024-12-14 14:59:27] Error : Your query value is : 
+[2024-12-14 14:59:27] Error : Your query binding with error : 
+[2024-12-14 14:59:27] Error : Code : 0
+[2024-12-14 14:59:27] End log message
+[2024-12-14 14:59:27] ======================================================================================================
+
+[2024-12-14 14:59:27] ======================================================================================================
+[2024-12-14 14:59:27] Start log message:
+[2024-12-14 14:59:27] Error : Line number where getting error is : 44
+[2024-12-14 14:59:27] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:27] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 14:59:27] Error : Your query value is : 
+[2024-12-14 14:59:27] Error : Your query binding with error : 
+[2024-12-14 14:59:27] Error : Code : 0
+[2024-12-14 14:59:27] End log message
+[2024-12-14 14:59:27] ======================================================================================================
+
+[2024-12-14 14:59:28] ======================================================================================================
+[2024-12-14 14:59:28] Start log message:
+[2024-12-14 14:59:28] Error : Line number where getting error is : 44
+[2024-12-14 14:59:28] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 14:59:28] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 14:59:28] Error : Your query value is : 
+[2024-12-14 14:59:28] Error : Your query binding with error : 
+[2024-12-14 14:59:28] Error : Code : 0
+[2024-12-14 14:59:28] End log message
+[2024-12-14 14:59:28] ======================================================================================================
+
+[2024-12-14 15:00:08] ======================================================================================================
+[2024-12-14 15:00:08] Start log message:
+[2024-12-14 15:00:08] Error : Line number where getting error is : 44
+[2024-12-14 15:00:08] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:08] Error : Getting on your query : The route admin/css/style-responsive.css could not be found.
+[2024-12-14 15:00:08] Error : Your query value is : 
+[2024-12-14 15:00:08] Error : Your query binding with error : 
+[2024-12-14 15:00:08] Error : Code : 0
+[2024-12-14 15:00:08] End log message
+[2024-12-14 15:00:08] ======================================================================================================
+
+[2024-12-14 15:00:08] ======================================================================================================
+[2024-12-14 15:00:08] Start log message:
+[2024-12-14 15:00:08] Error : Line number where getting error is : 44
+[2024-12-14 15:00:08] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:08] Error : Getting on your query : The route admin/css/font.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:00:08] Error : Your query value is : 
+[2024-12-14 15:00:08] Error : Your query binding with error : 
+[2024-12-14 15:00:08] Error : Code : 0
+[2024-12-14 15:00:08] End log message
+[2024-12-14 15:00:08] ======================================================================================================
+
+[2024-12-14 15:00:08] ======================================================================================================
+[2024-12-14 15:00:08] Start log message:
+[2024-12-14 15:00:08] Error : Line number where getting error is : 44
+[2024-12-14 15:00:08] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:08] Error : Getting on your query : The route admin/css/font-awesome.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:00:08] Error : Your query value is : 
+[2024-12-14 15:00:08] Error : Your query binding with error : 
+[2024-12-14 15:00:08] Error : Code : 0
+[2024-12-14 15:00:08] End log message
+[2024-12-14 15:00:08] ======================================================================================================
+
+[2024-12-14 15:00:09] ======================================================================================================
+[2024-12-14 15:00:09] Start log message:
+[2024-12-14 15:00:09] Error : Line number where getting error is : 44
+[2024-12-14 15:00:09] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:09] Error : Getting on your query : The route admin/css/morris.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:00:09] Error : Your query value is : 
+[2024-12-14 15:00:09] Error : Your query binding with error : 
+[2024-12-14 15:00:09] Error : Code : 0
+[2024-12-14 15:00:09] End log message
+[2024-12-14 15:00:09] ======================================================================================================
+
+[2024-12-14 15:00:09] ======================================================================================================
+[2024-12-14 15:00:09] Start log message:
+[2024-12-14 15:00:09] Error : Line number where getting error is : 44
+[2024-12-14 15:00:09] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:09] Error : Getting on your query : The route admin/css/monthly.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:00:09] Error : Your query value is : 
+[2024-12-14 15:00:09] Error : Your query binding with error : 
+[2024-12-14 15:00:09] Error : Code : 0
+[2024-12-14 15:00:09] End log message
+[2024-12-14 15:00:09] ======================================================================================================
+
+[2024-12-14 15:00:09] ======================================================================================================
+[2024-12-14 15:00:09] Start log message:
+[2024-12-14 15:00:09] Error : Line number where getting error is : 44
+[2024-12-14 15:00:09] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:09] Error : Getting on your query : The route admin/js/jquery2.0.3.min.jshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:00:09] Error : Your query value is : 
+[2024-12-14 15:00:09] Error : Your query binding with error : 
+[2024-12-14 15:00:09] Error : Code : 0
+[2024-12-14 15:00:09] End log message
+[2024-12-14 15:00:09] ======================================================================================================
+
+[2024-12-14 15:00:10] ======================================================================================================
+[2024-12-14 15:00:10] Start log message:
+[2024-12-14 15:00:10] Error : Line number where getting error is : 44
+[2024-12-14 15:00:10] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:10] Error : Getting on your query : The route admin/js/raphael-min.jshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:00:10] Error : Your query value is : 
+[2024-12-14 15:00:10] Error : Your query binding with error : 
+[2024-12-14 15:00:10] Error : Code : 0
+[2024-12-14 15:00:10] End log message
+[2024-12-14 15:00:10] ======================================================================================================
+
+[2024-12-14 15:00:10] ======================================================================================================
+[2024-12-14 15:00:10] Start log message:
+[2024-12-14 15:00:10] Error : Line number where getting error is : 44
+[2024-12-14 15:00:10] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:10] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 15:00:10] Error : Your query value is : 
+[2024-12-14 15:00:10] Error : Your query binding with error : 
+[2024-12-14 15:00:10] Error : Code : 0
+[2024-12-14 15:00:10] End log message
+[2024-12-14 15:00:10] ======================================================================================================
+
+[2024-12-14 15:00:11] ======================================================================================================
+[2024-12-14 15:00:11] Start log message:
+[2024-12-14 15:00:11] Error : Line number where getting error is : 44
+[2024-12-14 15:00:11] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:11] Error : Getting on your query : The route admin/images/1.png could not be found.
+[2024-12-14 15:00:11] Error : Your query value is : 
+[2024-12-14 15:00:11] Error : Your query binding with error : 
+[2024-12-14 15:00:11] Error : Code : 0
+[2024-12-14 15:00:11] End log message
+[2024-12-14 15:00:11] ======================================================================================================
+
+[2024-12-14 15:00:11] ======================================================================================================
+[2024-12-14 15:00:11] Start log message:
+[2024-12-14 15:00:11] Error : Line number where getting error is : 44
+[2024-12-14 15:00:11] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:11] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 15:00:11] Error : Your query value is : 
+[2024-12-14 15:00:11] Error : Your query binding with error : 
+[2024-12-14 15:00:11] Error : Code : 0
+[2024-12-14 15:00:11] End log message
+[2024-12-14 15:00:11] ======================================================================================================
+
+[2024-12-14 15:00:11] ======================================================================================================
+[2024-12-14 15:00:11] Start log message:
+[2024-12-14 15:00:11] Error : Line number where getting error is : 44
+[2024-12-14 15:00:11] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:11] Error : Getting on your query : The route admin/js/bootstrap.js could not be found.
+[2024-12-14 15:00:11] Error : Your query value is : 
+[2024-12-14 15:00:11] Error : Your query binding with error : 
+[2024-12-14 15:00:11] Error : Code : 0
+[2024-12-14 15:00:11] End log message
+[2024-12-14 15:00:11] ======================================================================================================
+
+[2024-12-14 15:00:12] ======================================================================================================
+[2024-12-14 15:00:12] Start log message:
+[2024-12-14 15:00:12] Error : Line number where getting error is : 44
+[2024-12-14 15:00:12] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:12] Error : Getting on your query : The route admin/js/jquery.dcjqaccordion.2.7.js could not be found.
+[2024-12-14 15:00:12] Error : Your query value is : 
+[2024-12-14 15:00:12] Error : Your query binding with error : 
+[2024-12-14 15:00:12] Error : Code : 0
+[2024-12-14 15:00:12] End log message
+[2024-12-14 15:00:12] ======================================================================================================
+
+[2024-12-14 15:00:12] ======================================================================================================
+[2024-12-14 15:00:12] Start log message:
+[2024-12-14 15:00:12] Error : Line number where getting error is : 44
+[2024-12-14 15:00:12] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:12] Error : Getting on your query : The route admin/js/scripts.js could not be found.
+[2024-12-14 15:00:12] Error : Your query value is : 
+[2024-12-14 15:00:12] Error : Your query binding with error : 
+[2024-12-14 15:00:12] Error : Code : 0
+[2024-12-14 15:00:12] End log message
+[2024-12-14 15:00:12] ======================================================================================================
+
+[2024-12-14 15:00:12] ======================================================================================================
+[2024-12-14 15:00:12] Start log message:
+[2024-12-14 15:00:12] Error : Line number where getting error is : 44
+[2024-12-14 15:00:12] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:12] Error : Getting on your query : The route admin/js/jquery.slimscroll.js could not be found.
+[2024-12-14 15:00:12] Error : Your query value is : 
+[2024-12-14 15:00:12] Error : Your query binding with error : 
+[2024-12-14 15:00:12] Error : Code : 0
+[2024-12-14 15:00:12] End log message
+[2024-12-14 15:00:12] ======================================================================================================
+
+[2024-12-14 15:00:13] ======================================================================================================
+[2024-12-14 15:00:13] Start log message:
+[2024-12-14 15:00:13] Error : Line number where getting error is : 44
+[2024-12-14 15:00:13] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:13] Error : Getting on your query : The route admin/js/jquery.nicescroll.js could not be found.
+[2024-12-14 15:00:13] Error : Your query value is : 
+[2024-12-14 15:00:13] Error : Your query binding with error : 
+[2024-12-14 15:00:13] Error : Code : 0
+[2024-12-14 15:00:13] End log message
+[2024-12-14 15:00:13] ======================================================================================================
+
+[2024-12-14 15:00:13] ======================================================================================================
+[2024-12-14 15:00:13] Start log message:
+[2024-12-14 15:00:13] Error : Line number where getting error is : 44
+[2024-12-14 15:00:13] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:13] Error : Getting on your query : The route admin/js/jquery.scrollTo.js could not be found.
+[2024-12-14 15:00:13] Error : Your query value is : 
+[2024-12-14 15:00:13] Error : Your query binding with error : 
+[2024-12-14 15:00:13] Error : Code : 0
+[2024-12-14 15:00:13] End log message
+[2024-12-14 15:00:13] ======================================================================================================
+
+[2024-12-14 15:00:14] ======================================================================================================
+[2024-12-14 15:00:14] Start log message:
+[2024-12-14 15:00:14] Error : Line number where getting error is : 44
+[2024-12-14 15:00:14] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:14] Error : Getting on your query : The route admin/js/monthly.js could not be found.
+[2024-12-14 15:00:14] Error : Your query value is : 
+[2024-12-14 15:00:14] Error : Your query binding with error : 
+[2024-12-14 15:00:14] Error : Code : 0
+[2024-12-14 15:00:14] End log message
+[2024-12-14 15:00:14] ======================================================================================================
+
+[2024-12-14 15:00:14] ======================================================================================================
+[2024-12-14 15:00:14] Start log message:
+[2024-12-14 15:00:14] Error : Line number where getting error is : 44
+[2024-12-14 15:00:14] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:14] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 15:00:14] Error : Your query value is : 
+[2024-12-14 15:00:14] Error : Your query binding with error : 
+[2024-12-14 15:00:14] Error : Code : 0
+[2024-12-14 15:00:14] End log message
+[2024-12-14 15:00:14] ======================================================================================================
+
+[2024-12-14 15:00:38] ======================================================================================================
+[2024-12-14 15:00:38] Start log message:
+[2024-12-14 15:00:38] Error : Line number where getting error is : 44
+[2024-12-14 15:00:38] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:38] Error : Getting on your query : The route admin/tool/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 15:00:38] Error : Your query value is : 
+[2024-12-14 15:00:38] Error : Your query binding with error : 
+[2024-12-14 15:00:38] Error : Code : 0
+[2024-12-14 15:00:38] End log message
+[2024-12-14 15:00:38] ======================================================================================================
+
+[2024-12-14 15:00:39] ======================================================================================================
+[2024-12-14 15:00:39] Start log message:
+[2024-12-14 15:00:39] Error : Line number where getting error is : 44
+[2024-12-14 15:00:39] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:39] Error : Getting on your query : The route admin/css/style-responsive.css could not be found.
+[2024-12-14 15:00:39] Error : Your query value is : 
+[2024-12-14 15:00:39] Error : Your query binding with error : 
+[2024-12-14 15:00:39] Error : Code : 0
+[2024-12-14 15:00:39] End log message
+[2024-12-14 15:00:39] ======================================================================================================
+
+[2024-12-14 15:00:39] ======================================================================================================
+[2024-12-14 15:00:39] Start log message:
+[2024-12-14 15:00:39] Error : Line number where getting error is : 44
+[2024-12-14 15:00:39] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:39] Error : Getting on your query : The route admin/css/font.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:00:39] Error : Your query value is : 
+[2024-12-14 15:00:39] Error : Your query binding with error : 
+[2024-12-14 15:00:39] Error : Code : 0
+[2024-12-14 15:00:39] End log message
+[2024-12-14 15:00:39] ======================================================================================================
+
+[2024-12-14 15:00:40] ======================================================================================================
+[2024-12-14 15:00:40] Start log message:
+[2024-12-14 15:00:40] Error : Line number where getting error is : 44
+[2024-12-14 15:00:40] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:40] Error : Getting on your query : The route admin/css/morris.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:00:40] Error : Your query value is : 
+[2024-12-14 15:00:40] Error : Your query binding with error : 
+[2024-12-14 15:00:40] Error : Code : 0
+[2024-12-14 15:00:40] End log message
+[2024-12-14 15:00:40] ======================================================================================================
+
+[2024-12-14 15:00:40] ======================================================================================================
+[2024-12-14 15:00:40] Start log message:
+[2024-12-14 15:00:40] Error : Line number where getting error is : 44
+[2024-12-14 15:00:40] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:40] Error : Getting on your query : The route admin/css/font-awesome.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:00:40] Error : Your query value is : 
+[2024-12-14 15:00:40] Error : Your query binding with error : 
+[2024-12-14 15:00:40] Error : Code : 0
+[2024-12-14 15:00:40] End log message
+[2024-12-14 15:00:40] ======================================================================================================
+
+[2024-12-14 15:00:40] ======================================================================================================
+[2024-12-14 15:00:40] Start log message:
+[2024-12-14 15:00:40] Error : Line number where getting error is : 44
+[2024-12-14 15:00:40] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:40] Error : Getting on your query : The route admin/css/monthly.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:00:40] Error : Your query value is : 
+[2024-12-14 15:00:40] Error : Your query binding with error : 
+[2024-12-14 15:00:40] Error : Code : 0
+[2024-12-14 15:00:40] End log message
+[2024-12-14 15:00:40] ======================================================================================================
+
+[2024-12-14 15:00:41] ======================================================================================================
+[2024-12-14 15:00:41] Start log message:
+[2024-12-14 15:00:41] Error : Line number where getting error is : 44
+[2024-12-14 15:00:41] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:41] Error : Getting on your query : The route admin/js/jquery2.0.3.min.jshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:00:41] Error : Your query value is : 
+[2024-12-14 15:00:41] Error : Your query binding with error : 
+[2024-12-14 15:00:41] Error : Code : 0
+[2024-12-14 15:00:41] End log message
+[2024-12-14 15:00:41] ======================================================================================================
+
+[2024-12-14 15:00:41] ======================================================================================================
+[2024-12-14 15:00:41] Start log message:
+[2024-12-14 15:00:41] Error : Line number where getting error is : 44
+[2024-12-14 15:00:41] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:41] Error : Getting on your query : The route admin/js/raphael-min.jshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:00:41] Error : Your query value is : 
+[2024-12-14 15:00:41] Error : Your query binding with error : 
+[2024-12-14 15:00:41] Error : Code : 0
+[2024-12-14 15:00:41] End log message
+[2024-12-14 15:00:41] ======================================================================================================
+
+[2024-12-14 15:00:41] ======================================================================================================
+[2024-12-14 15:00:41] Start log message:
+[2024-12-14 15:00:41] Error : Line number where getting error is : 44
+[2024-12-14 15:00:41] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:41] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 15:00:41] Error : Your query value is : 
+[2024-12-14 15:00:41] Error : Your query binding with error : 
+[2024-12-14 15:00:41] Error : Code : 0
+[2024-12-14 15:00:41] End log message
+[2024-12-14 15:00:41] ======================================================================================================
+
+[2024-12-14 15:00:42] ======================================================================================================
+[2024-12-14 15:00:42] Start log message:
+[2024-12-14 15:00:42] Error : Line number where getting error is : 44
+[2024-12-14 15:00:42] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:42] Error : Getting on your query : The route admin/images/1.png could not be found.
+[2024-12-14 15:00:42] Error : Your query value is : 
+[2024-12-14 15:00:42] Error : Your query binding with error : 
+[2024-12-14 15:00:42] Error : Code : 0
+[2024-12-14 15:00:42] End log message
+[2024-12-14 15:00:42] ======================================================================================================
+
+[2024-12-14 15:00:42] ======================================================================================================
+[2024-12-14 15:00:42] Start log message:
+[2024-12-14 15:00:42] Error : Line number where getting error is : 44
+[2024-12-14 15:00:42] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:42] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 15:00:42] Error : Your query value is : 
+[2024-12-14 15:00:42] Error : Your query binding with error : 
+[2024-12-14 15:00:42] Error : Code : 0
+[2024-12-14 15:00:42] End log message
+[2024-12-14 15:00:42] ======================================================================================================
+
+[2024-12-14 15:00:43] ======================================================================================================
+[2024-12-14 15:00:43] Start log message:
+[2024-12-14 15:00:43] Error : Line number where getting error is : 44
+[2024-12-14 15:00:43] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:43] Error : Getting on your query : The route admin/js/bootstrap.js could not be found.
+[2024-12-14 15:00:43] Error : Your query value is : 
+[2024-12-14 15:00:43] Error : Your query binding with error : 
+[2024-12-14 15:00:43] Error : Code : 0
+[2024-12-14 15:00:43] End log message
+[2024-12-14 15:00:43] ======================================================================================================
+
+[2024-12-14 15:00:44] ======================================================================================================
+[2024-12-14 15:00:44] Start log message:
+[2024-12-14 15:00:44] Error : Line number where getting error is : 44
+[2024-12-14 15:00:44] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:44] Error : Getting on your query : The route admin/js/jquery.dcjqaccordion.2.7.js could not be found.
+[2024-12-14 15:00:44] Error : Your query value is : 
+[2024-12-14 15:00:44] Error : Your query binding with error : 
+[2024-12-14 15:00:44] Error : Code : 0
+[2024-12-14 15:00:44] End log message
+[2024-12-14 15:00:44] ======================================================================================================
+
+[2024-12-14 15:00:44] ======================================================================================================
+[2024-12-14 15:00:44] Start log message:
+[2024-12-14 15:00:44] Error : Line number where getting error is : 44
+[2024-12-14 15:00:44] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:44] Error : Getting on your query : The route admin/js/scripts.js could not be found.
+[2024-12-14 15:00:44] Error : Your query value is : 
+[2024-12-14 15:00:44] Error : Your query binding with error : 
+[2024-12-14 15:00:44] Error : Code : 0
+[2024-12-14 15:00:44] End log message
+[2024-12-14 15:00:44] ======================================================================================================
+
+[2024-12-14 15:00:45] ======================================================================================================
+[2024-12-14 15:00:45] Start log message:
+[2024-12-14 15:00:45] Error : Line number where getting error is : 44
+[2024-12-14 15:00:45] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:45] Error : Getting on your query : The route admin/js/jquery.slimscroll.js could not be found.
+[2024-12-14 15:00:45] Error : Your query value is : 
+[2024-12-14 15:00:45] Error : Your query binding with error : 
+[2024-12-14 15:00:45] Error : Code : 0
+[2024-12-14 15:00:45] End log message
+[2024-12-14 15:00:45] ======================================================================================================
+
+[2024-12-14 15:00:45] ======================================================================================================
+[2024-12-14 15:00:45] Start log message:
+[2024-12-14 15:00:45] Error : Line number where getting error is : 44
+[2024-12-14 15:00:45] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:45] Error : Getting on your query : The route admin/js/jquery.nicescroll.js could not be found.
+[2024-12-14 15:00:45] Error : Your query value is : 
+[2024-12-14 15:00:45] Error : Your query binding with error : 
+[2024-12-14 15:00:45] Error : Code : 0
+[2024-12-14 15:00:45] End log message
+[2024-12-14 15:00:45] ======================================================================================================
+
+[2024-12-14 15:00:46] ======================================================================================================
+[2024-12-14 15:00:46] Start log message:
+[2024-12-14 15:00:46] Error : Line number where getting error is : 44
+[2024-12-14 15:00:46] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:46] Error : Getting on your query : The route admin/js/jquery.scrollTo.js could not be found.
+[2024-12-14 15:00:46] Error : Your query value is : 
+[2024-12-14 15:00:46] Error : Your query binding with error : 
+[2024-12-14 15:00:46] Error : Code : 0
+[2024-12-14 15:00:46] End log message
+[2024-12-14 15:00:46] ======================================================================================================
+
+[2024-12-14 15:00:46] ======================================================================================================
+[2024-12-14 15:00:46] Start log message:
+[2024-12-14 15:00:46] Error : Line number where getting error is : 44
+[2024-12-14 15:00:46] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:46] Error : Getting on your query : The route admin/js/monthly.js could not be found.
+[2024-12-14 15:00:46] Error : Your query value is : 
+[2024-12-14 15:00:46] Error : Your query binding with error : 
+[2024-12-14 15:00:46] Error : Code : 0
+[2024-12-14 15:00:46] End log message
+[2024-12-14 15:00:46] ======================================================================================================
+
+[2024-12-14 15:00:47] ======================================================================================================
+[2024-12-14 15:00:47] Start log message:
+[2024-12-14 15:00:47] Error : Line number where getting error is : 44
+[2024-12-14 15:00:47] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:00:47] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 15:00:47] Error : Your query value is : 
+[2024-12-14 15:00:47] Error : Your query binding with error : 
+[2024-12-14 15:00:47] Error : Code : 0
+[2024-12-14 15:00:47] End log message
+[2024-12-14 15:00:47] ======================================================================================================
+
+[2024-12-14 15:01:31] ======================================================================================================
+[2024-12-14 15:01:31] Start log message:
+[2024-12-14 15:01:31] Error : Line number where getting error is : 44
+[2024-12-14 15:01:31] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:31] Error : Getting on your query : The route admin/css/style-responsive.css could not be found.
+[2024-12-14 15:01:31] Error : Your query value is : 
+[2024-12-14 15:01:31] Error : Your query binding with error : 
+[2024-12-14 15:01:31] Error : Code : 0
+[2024-12-14 15:01:31] End log message
+[2024-12-14 15:01:31] ======================================================================================================
+
+[2024-12-14 15:01:32] ======================================================================================================
+[2024-12-14 15:01:32] Start log message:
+[2024-12-14 15:01:32] Error : Line number where getting error is : 44
+[2024-12-14 15:01:32] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:32] Error : Getting on your query : The route admin/css/font-awesome.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:01:32] Error : Your query value is : 
+[2024-12-14 15:01:32] Error : Your query binding with error : 
+[2024-12-14 15:01:32] Error : Code : 0
+[2024-12-14 15:01:32] End log message
+[2024-12-14 15:01:32] ======================================================================================================
+
+[2024-12-14 15:01:32] ======================================================================================================
+[2024-12-14 15:01:32] Start log message:
+[2024-12-14 15:01:32] Error : Line number where getting error is : 44
+[2024-12-14 15:01:32] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:32] Error : Getting on your query : The route admin/css/font.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:01:32] Error : Your query value is : 
+[2024-12-14 15:01:32] Error : Your query binding with error : 
+[2024-12-14 15:01:32] Error : Code : 0
+[2024-12-14 15:01:32] End log message
+[2024-12-14 15:01:32] ======================================================================================================
+
+[2024-12-14 15:01:32] ======================================================================================================
+[2024-12-14 15:01:32] Start log message:
+[2024-12-14 15:01:32] Error : Line number where getting error is : 44
+[2024-12-14 15:01:32] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:32] Error : Getting on your query : The route admin/css/morris.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:01:32] Error : Your query value is : 
+[2024-12-14 15:01:32] Error : Your query binding with error : 
+[2024-12-14 15:01:32] Error : Code : 0
+[2024-12-14 15:01:32] End log message
+[2024-12-14 15:01:32] ======================================================================================================
+
+[2024-12-14 15:01:33] ======================================================================================================
+[2024-12-14 15:01:33] Start log message:
+[2024-12-14 15:01:33] Error : Line number where getting error is : 44
+[2024-12-14 15:01:33] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:33] Error : Getting on your query : The route admin/css/monthly.csshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:01:33] Error : Your query value is : 
+[2024-12-14 15:01:33] Error : Your query binding with error : 
+[2024-12-14 15:01:33] Error : Code : 0
+[2024-12-14 15:01:33] End log message
+[2024-12-14 15:01:33] ======================================================================================================
+
+[2024-12-14 15:01:33] ======================================================================================================
+[2024-12-14 15:01:33] Start log message:
+[2024-12-14 15:01:33] Error : Line number where getting error is : 44
+[2024-12-14 15:01:33] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:33] Error : Getting on your query : The route admin/js/jquery2.0.3.min.jshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:01:33] Error : Your query value is : 
+[2024-12-14 15:01:33] Error : Your query binding with error : 
+[2024-12-14 15:01:33] Error : Code : 0
+[2024-12-14 15:01:33] End log message
+[2024-12-14 15:01:33] ======================================================================================================
+
+[2024-12-14 15:01:34] ======================================================================================================
+[2024-12-14 15:01:34] Start log message:
+[2024-12-14 15:01:34] Error : Line number where getting error is : 44
+[2024-12-14 15:01:34] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:34] Error : Getting on your query : The route admin/js/raphael-min.jshttp://127.0.0.1:8000/web/css/bootstrap.min.css could not be found.
+[2024-12-14 15:01:34] Error : Your query value is : 
+[2024-12-14 15:01:34] Error : Your query binding with error : 
+[2024-12-14 15:01:34] Error : Code : 0
+[2024-12-14 15:01:34] End log message
+[2024-12-14 15:01:34] ======================================================================================================
+
+[2024-12-14 15:01:34] ======================================================================================================
+[2024-12-14 15:01:34] Start log message:
+[2024-12-14 15:01:34] Error : Line number where getting error is : 44
+[2024-12-14 15:01:34] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:34] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 15:01:34] Error : Your query value is : 
+[2024-12-14 15:01:34] Error : Your query binding with error : 
+[2024-12-14 15:01:34] Error : Code : 0
+[2024-12-14 15:01:34] End log message
+[2024-12-14 15:01:34] ======================================================================================================
+
+[2024-12-14 15:01:34] ======================================================================================================
+[2024-12-14 15:01:34] Start log message:
+[2024-12-14 15:01:34] Error : Line number where getting error is : 44
+[2024-12-14 15:01:34] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:34] Error : Getting on your query : The route admin/images/1.png could not be found.
+[2024-12-14 15:01:34] Error : Your query value is : 
+[2024-12-14 15:01:34] Error : Your query binding with error : 
+[2024-12-14 15:01:34] Error : Code : 0
+[2024-12-14 15:01:34] End log message
+[2024-12-14 15:01:34] ======================================================================================================
+
+[2024-12-14 15:01:35] ======================================================================================================
+[2024-12-14 15:01:35] Start log message:
+[2024-12-14 15:01:35] Error : Line number where getting error is : 44
+[2024-12-14 15:01:35] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:35] Error : Getting on your query : The route admin/images/2.png could not be found.
+[2024-12-14 15:01:35] Error : Your query value is : 
+[2024-12-14 15:01:35] Error : Your query binding with error : 
+[2024-12-14 15:01:35] Error : Code : 0
+[2024-12-14 15:01:35] End log message
+[2024-12-14 15:01:35] ======================================================================================================
+
+[2024-12-14 15:01:35] ======================================================================================================
+[2024-12-14 15:01:35] Start log message:
+[2024-12-14 15:01:35] Error : Line number where getting error is : 44
+[2024-12-14 15:01:35] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:35] Error : Getting on your query : The route admin/js/bootstrap.js could not be found.
+[2024-12-14 15:01:35] Error : Your query value is : 
+[2024-12-14 15:01:35] Error : Your query binding with error : 
+[2024-12-14 15:01:35] Error : Code : 0
+[2024-12-14 15:01:35] End log message
+[2024-12-14 15:01:35] ======================================================================================================
+
+[2024-12-14 15:01:36] ======================================================================================================
+[2024-12-14 15:01:36] Start log message:
+[2024-12-14 15:01:36] Error : Line number where getting error is : 44
+[2024-12-14 15:01:36] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:36] Error : Getting on your query : The route admin/js/jquery.dcjqaccordion.2.7.js could not be found.
+[2024-12-14 15:01:36] Error : Your query value is : 
+[2024-12-14 15:01:36] Error : Your query binding with error : 
+[2024-12-14 15:01:36] Error : Code : 0
+[2024-12-14 15:01:36] End log message
+[2024-12-14 15:01:36] ======================================================================================================
+
+[2024-12-14 15:01:36] ======================================================================================================
+[2024-12-14 15:01:36] Start log message:
+[2024-12-14 15:01:36] Error : Line number where getting error is : 44
+[2024-12-14 15:01:36] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:36] Error : Getting on your query : The route admin/js/scripts.js could not be found.
+[2024-12-14 15:01:36] Error : Your query value is : 
+[2024-12-14 15:01:36] Error : Your query binding with error : 
+[2024-12-14 15:01:36] Error : Code : 0
+[2024-12-14 15:01:36] End log message
+[2024-12-14 15:01:36] ======================================================================================================
+
+[2024-12-14 15:01:36] ======================================================================================================
+[2024-12-14 15:01:36] Start log message:
+[2024-12-14 15:01:36] Error : Line number where getting error is : 44
+[2024-12-14 15:01:36] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:36] Error : Getting on your query : The route admin/js/jquery.slimscroll.js could not be found.
+[2024-12-14 15:01:36] Error : Your query value is : 
+[2024-12-14 15:01:36] Error : Your query binding with error : 
+[2024-12-14 15:01:36] Error : Code : 0
+[2024-12-14 15:01:36] End log message
+[2024-12-14 15:01:36] ======================================================================================================
+
+[2024-12-14 15:01:37] ======================================================================================================
+[2024-12-14 15:01:37] Start log message:
+[2024-12-14 15:01:37] Error : Line number where getting error is : 44
+[2024-12-14 15:01:37] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:37] Error : Getting on your query : The route admin/js/jquery.nicescroll.js could not be found.
+[2024-12-14 15:01:37] Error : Your query value is : 
+[2024-12-14 15:01:37] Error : Your query binding with error : 
+[2024-12-14 15:01:37] Error : Code : 0
+[2024-12-14 15:01:37] End log message
+[2024-12-14 15:01:37] ======================================================================================================
+
+[2024-12-14 15:01:37] ======================================================================================================
+[2024-12-14 15:01:37] Start log message:
+[2024-12-14 15:01:37] Error : Line number where getting error is : 44
+[2024-12-14 15:01:37] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:37] Error : Getting on your query : The route admin/js/jquery.scrollTo.js could not be found.
+[2024-12-14 15:01:37] Error : Your query value is : 
+[2024-12-14 15:01:37] Error : Your query binding with error : 
+[2024-12-14 15:01:37] Error : Code : 0
+[2024-12-14 15:01:37] End log message
+[2024-12-14 15:01:37] ======================================================================================================
+
+[2024-12-14 15:01:38] ======================================================================================================
+[2024-12-14 15:01:38] Start log message:
+[2024-12-14 15:01:38] Error : Line number where getting error is : 44
+[2024-12-14 15:01:38] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:38] Error : Getting on your query : The route admin/js/monthly.js could not be found.
+[2024-12-14 15:01:38] Error : Your query value is : 
+[2024-12-14 15:01:38] Error : Your query binding with error : 
+[2024-12-14 15:01:38] Error : Code : 0
+[2024-12-14 15:01:38] End log message
+[2024-12-14 15:01:38] ======================================================================================================
+
+[2024-12-14 15:01:38] ======================================================================================================
+[2024-12-14 15:01:38] Start log message:
+[2024-12-14 15:01:38] Error : Line number where getting error is : 44
+[2024-12-14 15:01:38] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:38] Error : Getting on your query : The route admin/images/3.png could not be found.
+[2024-12-14 15:01:38] Error : Your query value is : 
+[2024-12-14 15:01:38] Error : Your query binding with error : 
+[2024-12-14 15:01:38] Error : Code : 0
+[2024-12-14 15:01:38] End log message
+[2024-12-14 15:01:38] ======================================================================================================
+
+[2024-12-14 15:01:41] ======================================================================================================
+[2024-12-14 15:01:41] Start log message:
+[2024-12-14 15:01:41] Error : Line number where getting error is : 44
+[2024-12-14 15:01:41] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:41] Error : Getting on your query : The route admin/travel/dashboard could not be found.
+[2024-12-14 15:01:41] Error : Your query value is : 
+[2024-12-14 15:01:41] Error : Your query binding with error : 
+[2024-12-14 15:01:41] Error : Code : 0
+[2024-12-14 15:01:41] End log message
+[2024-12-14 15:01:41] ======================================================================================================
+
+[2024-12-14 15:01:44] ======================================================================================================
+[2024-12-14 15:01:44] Start log message:
+[2024-12-14 15:01:44] Error : Line number where getting error is : 44
+[2024-12-14 15:01:44] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:44] Error : Getting on your query : The route admin/vendor/dashboard could not be found.
+[2024-12-14 15:01:44] Error : Your query value is : 
+[2024-12-14 15:01:44] Error : Your query binding with error : 
+[2024-12-14 15:01:44] Error : Code : 0
+[2024-12-14 15:01:44] End log message
+[2024-12-14 15:01:44] ======================================================================================================
+
+[2024-12-14 15:01:47] ======================================================================================================
+[2024-12-14 15:01:47] Start log message:
+[2024-12-14 15:01:47] Error : Line number where getting error is : 44
+[2024-12-14 15:01:47] Error : File name where getting error is : C:\laragon\www\my-project\backend\vendor\laravel\framework\src\Illuminate\Routing\AbstractRouteCollection.php
+[2024-12-14 15:01:47] Error : Getting on your query : The route admin/assets/img/kaiadmin/favicon.ico could not be found.
+[2024-12-14 15:01:47] Error : Your query value is : 
+[2024-12-14 15:01:47] Error : Your query binding with error : 
+[2024-12-14 15:01:47] Error : Code : 0
+[2024-12-14 15:01:47] End log message
+[2024-12-14 15:01:47] ======================================================================================================
+
